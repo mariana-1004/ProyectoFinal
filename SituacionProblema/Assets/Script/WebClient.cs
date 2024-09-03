@@ -41,9 +41,29 @@ public class WebClient : MonoBehaviour
                 //Debug.Log(jsonParts[0]);
                 //Debug.Log(jsonParts[1]);
 
-                agents = JsonConvert.DeserializeObject<AgentData>(jsonParts[0]);
+                //agents = JsonConvert.DeserializeObject<AgentData>(jsonParts[0]);
                 Grid = JsonConvert.DeserializeObject<GridData>(jsonParts[1]);
-                Debug.Log(Grid);
+                //float firstValue = Grid.Grid[0][0][0];
+                //Debug.Log(grid);
+
+
+
+
+
+                // Imprimir cada parte de la respuesta
+                /*for (int i = 0; i < jsonParts.Length; i++)
+                {
+                    Debug.Log("Part " + i + ": " + jsonParts[i]);
+                }
+                */
+
+                // Deserializar los datos recibidos y almacenarlos en variables
+                // agents = JsonConvert.DeserializeObject<AgentData>(jsonParts[0]);
+                agents = JsonConvert.DeserializeObject<AgentData>(jsonParts[0]);
+
+                // Imprimir los datos deserializados
+                Debug.Log("Grid Data: " + JsonConvert.SerializeObject(Grid, Formatting.Indented));
+                Debug.Log("Agent Data: " + JsonConvert.SerializeObject(agents, Formatting.Indented));
 
             }
 
@@ -55,14 +75,16 @@ public class WebClient : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //string call = "What's up?";
-        Vector3 fakePos = new Vector3(3.44f, 0, -15.707f);
-        string json = EditorJsonUtility.ToJson(fakePos);
-        //StartCoroutine(SendData(call));
-        StartCoroutine(SendData(json));
-        // transform.localPosition
+        // Iniciar la repetición de la función SendDataEveryTenSeconds cada 10 segundos
+        InvokeRepeating("SendDataEveryNSeconds", 0f, 5f);
     }
 
+    void SendDataEveryNSeconds()
+    {
+        Vector3 fakePos = new Vector3(3.44f, 0, -15.707f);
+        string json = EditorJsonUtility.ToJson(fakePos);
+        StartCoroutine(SendData(json));
+    }
     // Update is called once per frame
     void Update()
     {
