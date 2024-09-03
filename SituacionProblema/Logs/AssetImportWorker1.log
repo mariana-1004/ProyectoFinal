@@ -11098,3 +11098,2056 @@ AssetImportParameters requested are different than current active one (requested
   custom:scripting/monoscript/fileName/GroupBrush.cs: b4c96b6e07e535d84dea8fa33a1ee653 -> 
   custom:scripting/monoscript/fileName/AdvancedRuleOverrideTileEditor.cs: f5f3e25e9690be1c73bbc0525b4d0b70 -> 
   custom:scripting/monoscript/fileName/RuleOverrideTile.cs: 27a3183bf22a5a9447c8b9239d8f3655 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 34320.438760 seconds.
+  path: Assets/Models/Materials/survivorFemaleA.mat
+  artifactKey: Guid(9efe85bd1ad98454b81a84db0abe3f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Materials/survivorFemaleA.mat using Guid(9efe85bd1ad98454b81a84db0abe3f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '9713990907bfc7751950e51286303b1d') in 0.108698 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 311.174200 seconds.
+  path: Assets/Models/_ChompMan-PM/Textures/LUT/_LUTs_SDF_Castle.png
+  artifactKey: Guid(e1a7403d865100d4285d3c0f5dc00b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/_ChompMan-PM/Textures/LUT/_LUTs_SDF_Castle.png using Guid(e1a7403d865100d4285d3c0f5dc00b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '24554003dd31c27b96213d18ccee4b2e') in 0.032665 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Models/_ChompMan-PM/Textures/Props/Cherry_AlbedoTransparency.png
+  artifactKey: Guid(aa5b8b1c5d8ab8a4f91a0425f431ee4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/_ChompMan-PM/Textures/Props/Cherry_AlbedoTransparency.png using Guid(aa5b8b1c5d8ab8a4f91a0425f431ee4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '48ef5856e956eb6dc995f1382f8daa9f') in 0.034658 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Models/_ChompMan-PM/Textures/UI/ChompMan_TitleScreenBackground_Blured.png
+  artifactKey: Guid(63d1883e26b52944887ade76bf9e057b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/_ChompMan-PM/Textures/UI/ChompMan_TitleScreenBackground_Blured.png using Guid(63d1883e26b52944887ade76bf9e057b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'a974df029ca3855157b0ce18f1336f09') in 0.101285 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Models/_ChompMan-PM/Textures/UI/ChompMan_TitleScreenFrame.png
+  artifactKey: Guid(a60c3054a2976f247aba59b2ca22bd07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/_ChompMan-PM/Textures/UI/ChompMan_TitleScreenFrame.png using Guid(a60c3054a2976f247aba59b2ca22bd07) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '2e1e606fe67455981f8423f1f824c662') in 0.018640 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 8.469777 seconds.
+  path: Assets/Models/_ChompMan-PM/Textures/LUT/LUTs_SDF_Fuji239.png
+  artifactKey: Guid(7c6f9652c0c6d0043acfb7262e2380b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/_ChompMan-PM/Textures/LUT/LUTs_SDF_Fuji239.png using Guid(7c6f9652c0c6d0043acfb7262e2380b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '1a121b7fca588f877148beaa447ca37b') in 0.004405 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.045545 seconds.
+  path: Assets/Models/_ChompMan-PM/Textures/Props/PowerPellet_AlbedoTransparency.png
+  artifactKey: Guid(9a42ba8a4f8ee73498218f8e3198c55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/_ChompMan-PM/Textures/Props/PowerPellet_AlbedoTransparency.png using Guid(9a42ba8a4f8ee73498218f8e3198c55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '5fff62edbdbc9b450a00eb64f312df4b') in 0.003648 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.048035 seconds.
+  path: Assets/Models/_ChompMan-PM/Textures/Props/PowerPellet_MetallicSmoothness.png
+  artifactKey: Guid(a798e730edf5e05418053f81de34a212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/_ChompMan-PM/Textures/Props/PowerPellet_MetallicSmoothness.png using Guid(a798e730edf5e05418053f81de34a212) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'a3463dd39412a95ae487eb28c1ea7a9a') in 0.003365 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Models/_ChompMan-PM/Textures/Props/PowerPellet_Normal.png
+  artifactKey: Guid(710699eb0e6be3543ae3affcc14dea4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/_ChompMan-PM/Textures/Props/PowerPellet_Normal.png using Guid(710699eb0e6be3543ae3affcc14dea4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '4fd93ddfb7ddca35e84124888170a50f') in 0.004762 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.024226 seconds.
+  path: Assets/Models/_ChompMan-PM/Textures/Props/PP_Rotating_AO.png
+  artifactKey: Guid(d6ad0c46e83ae1946ac67d310e0621f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/_ChompMan-PM/Textures/Props/PP_Rotating_AO.png using Guid(d6ad0c46e83ae1946ac67d310e0621f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '92ee580223faa85506b41d5520c36110') in 0.004145 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Models/_ChompMan-PM/Textures/Props/PP_Rotating_Emission.png
+  artifactKey: Guid(bb40326dfb6bf074c8721fc7996afc6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/_ChompMan-PM/Textures/Props/PP_Rotating_Emission.png using Guid(bb40326dfb6bf074c8721fc7996afc6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '7a7ebbdbfdeec8b86a18b7b1f621fc63') in 0.003373 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.019388 seconds.
+  path: Assets/Models/_ChompMan-PM/Textures/Props/PP_Rotating_Normal.png
+  artifactKey: Guid(39ba1a4ac742474458f7c74de444a5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/_ChompMan-PM/Textures/Props/PP_Rotating_Normal.png using Guid(39ba1a4ac742474458f7c74de444a5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'c40f8af9175d2e4df1c8256f6ced3f65') in 0.003831 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16b3c3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.279 seconds
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.628 seconds
+Domain Reload Profiling: 907ms
+	BeginReloadAssembly (91ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (31ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (145ms)
+		LoadAssemblies (169ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (628ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (221ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (33ms)
+			ProcessInitializeOnLoadAttributes (166ms)
+			ProcessInitializeOnLoadMethodAttributes (15ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Refreshing native plugins compatible for Editor in 1.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3188 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.6 KB). Loaded Objects now: 3878.
+Memory consumption went from 392.3 MB to 392.3 MB.
+Total: 2.465708 ms (FindLiveObjects: 0.135041 ms CreateObjectMapping: 0.044125 ms MarkObjects: 2.251584 ms  DeleteObjects: 0.034625 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/GridSelectionEditor.cs: b0830b2bf3f4ec3f6b4728180aba6475 -> 
+  custom:scripting/monoscript/fileName/GridSelectionMoveTool.cs: 045959d7a1acd1d565cd175dc65f7851 -> 
+  custom:scripting/monoscript/fileName/RuleTileEditor.cs: 79f13bbbfb485ee67c9a14570e36e085 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownMenu.cs: 83cccb1cc3875d5c0f94901c5a82ccab -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTileEditor.cs: 54ccbabc2015b49c6431a6b2023ec05b -> 
+  custom:scripting/monoscript/fileName/TilePaletteDragHandler.cs: 33cd7bc1b72f7f8ce9b6c5eb96821cb4 -> 
+  custom:scripting/monoscript/fileName/CreateTileFromPaletteAttribute.cs: 49ba01e4cbae8c43831d8f68d552a9ea -> 
+  custom:scripting/monoscript/fileName/EraseTool.cs: b2930b433d7a76d09c5103fd6fa9815b -> 
+  custom:scripting/monoscript/fileName/GridPaletteBrushes.cs: f682962b899ca3732c6892c2e8583713 -> 
+  custom:scripting/monoscript/fileName/GameObjectCreation.cs: 51d13e20836ef3a10ad0ebed59bdbde4 -> 
+  custom:scripting/monoscript/fileName/BoxTool.cs: 99a18cad4f2fa1ae8d04c0625e0f7a94 -> 
+  custom:scripting/monoscript/fileName/GridBrushesDropdown.cs: c2b0d8f0bca0a3921a0149a2aaafe361 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/TilemapPrefabStageHelper.cs: 44f1fd774e027e09010c4cea43a89765 -> 
+  custom:scripting/monoscript/fileName/GridEditorUtility.cs: 79caab27569f1aaf1370483b77a0eed6 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesPopup.cs: b117489b8fd3a726762a29aaae057971 -> 
+  custom:scripting/monoscript/fileName/GridSelectionScaleTool.cs: ab389a9feae3d29ad2e9ca76435ec24d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorTool.cs: 4a91b937c12531cdbbbbc26ac425cbca -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras: 9722aa6e48a25d628be73e787a5a1bb9 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTileEditor.cs: db810e58b09c64e4891f0d0900bac7f9 -> 
+  custom:scripting/monoscript/fileName/TilePaletteOverlayUtility.cs: dc8cc580b44070af00f5c1a8a3e30146 -> 
+  custom:scripting/monoscript/fileName/GridPalettes.cs: 05ebfa19bce5556c38d8243821b95e4f -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesButton.cs: f63fefeba5246c46efe3054fe7e8ff1e -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTile.cs: 226477e0fda8299a797033f4381d7b8f -> 
+  custom:scripting/monoscript/fileName/SceneViewGridManager.cs: 95fee1927d423310ba7aac18e1743e68 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsProperties.cs: 3c61ac15c80e0acfb6b6f6a93b9c2f7c -> 
+  custom:scripting/monoscript/fileName/GridSelectionToolEditor.cs: cf616a74bb2f9276d21997cd9c2c33e2 -> 
+  custom:scripting/monoscript/fileName/TilemapFocusModeUtility.cs: 56848ecd8aaf6704fc633228e67df6a2 -> 
+  custom:scripting/monoscript/fileName/AnimatedTile.cs: b22e1be758aa3632efe2ad109fb97030 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsButton.cs: e78565d1f8fb504d1e27cd33aee954a6 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteHelper.cs: 3fa016a943052bc6aa2e17496be83d99 -> 
+  custom:scripting/monoscript/fileName/MenuItemOrder.cs: 0c2a8b61e17835b8f2084ff2294259d0 -> 
+  custom:scripting/monoscript/fileName/GridPalettesDropdown.cs: c3eee8db1c244df7a8abb5dd90d1cd39 -> 
+  custom:scripting/monoscript/fileName/BrushToolsAttribute.cs: 07c3ce23d7664c866d082c14955fc570 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardButton.cs: 12e65d1181e6c35cbf046b81b301a908 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/CustomRuleTileMenu.cs: 44fb1e06a86558bd44bae993c9daf6c0 -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolbarStrip.cs: 3b09bb7c9508f28705fc70ed3a82a917 -> 
+  custom:scripting/monoscript/fileName/GridBrushEditor.cs: afd10d6c25e4dee28d1dd55bdbbf1155 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowSplitView.cs: 3055e63c32343a994785f777fb8a04eb -> 
+  custom:scripting/monoscript/fileName/GridPaletteAddPopup.cs: 4117721b3ecbb12bd0cf4e10caeebdad -> 
+  custom:scripting/monoscript/fileName/TileDragAndDrop.cs: b35ab1f4232799adb75b33a260fe44f2 -> 
+  custom:scripting/monoscript/fileName/TileUtility.cs: f1465daed90b124a361d1b7354e9b99a -> 
+  custom:scripting/monoscript/fileName/PopulateRuleOverrideTileWizard.cs: e9938d8d26487451054d1df1a65708f7 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Editor: c63f35b4be2093bcf46770a8fbd6e1fe -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorElement.cs: a9e9b82fa2a5bb9267ca4498f3dd157f -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteClipboard.cs: 7cd44e8a0b877591749257e5bc06900b -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardElement.cs: 9f42d126d3040ca37a531f760f418560 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspector.cs: dabf99b6cb469f7e1a014ed2d8b57854 -> 
+  custom:scripting/monoscript/fileName/LineBrush.cs: 8db0af8b46a7fc8f13e7177ede2caeba -> 
+  custom:scripting/monoscript/fileName/GridSelection.cs: d0dea8ce5af83014aa5391e8d6adf81c -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/GridPaintSortingAttribute.cs: 682e3d84c0bb9409c8038dde6cc6eaaa -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesLabel.cs: 50d6652b738f203c7a782d3c9e81384d -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/FillTool.cs: 31d1f393d06835eb58df2ad8c9b0407d -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteOverlay.cs: 9e154d415d7ab024c8551aae194f4532 -> 
+  custom:scripting/monoscript/fileName/SceneViewTilemapFocusOverlay.cs: 409b7579c9eddabad834478b2a2731cf -> 
+  custom:scripting/monoscript/fileName/GridBrush.cs: 0271bb4294dfd9c52b85d2ef18c21adf -> 
+  custom:scripting/monoscript/fileName/RuleTile.cs: f5f493643c39cafead8f05df075b38cf -> 
+  custom:scripting/monoscript/fileName/GameObjectBrush.cs: 87ba7a109062396c16824845dba02c1a -> 
+  custom:scripting/monoscript/fileName/TilePaletteContextMenuHandler.cs: 11689ac7a1e231b785fe9ee59440e8df -> 
+  custom:scripting/monoscript/fileName/GridBrushEditorBase.cs: 8dc6b8dd5b5c3920622a5c826cdb9a3e -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferences.cs: d34ae7afe7e42324c1a8dc1ee5c53101 -> 
+  custom:scripting/monoscript/fileName/PaintableGrid.cs: c538d5369d23cf604300c6f8a077b5d0 -> 
+  custom:scripting/monoscript/fileName/DefaultAssetCreation.cs: c2d4009190ffa48d1a68c12ac7902a37 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras.Editor: 5ad91861b07fefd995e74ac55c89582d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolButton.cs: 452256babee1fc6246907201b775c9ca -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowPreferences.cs: 506574d5ebc55d1c3ac5809521be171c -> 
+  custom:scripting/monoscript/fileName/RotateTool.cs: a45c53b4cde318c91ea55e570037bddd -> 
+  custom:scripting/monoscript/fileName/GridSelectionTransformTool.cs: 0102964ac3ceb594b7800c6267f18cf7 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePalettePopup.cs: d8ea341556e28c44f8ce8bb6cb513430 -> 
+  custom:scripting/monoscript/fileName/PaintTool.cs: b088555e5c7bac451566d0ed1b585c0f -> 
+  custom:scripting/monoscript/fileName/GridPaintingState.cs: 5b65b03e1c11595f69bba16eea8cd664 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowActiveTargets.cs: a9f6bc687e35dc605b0de621410da416 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardPanelPopup.cs: 481659589c6d2cf5d49bb3c51e9e2785 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/GridPaletteUtility.cs: a64eece78a61bcc19caeb2b2a114ba40 -> 
+  custom:scripting/monoscript/fileName/PaintableSceneViewGrid.cs: 668faf831cc940b1ebbed80737459bca -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferencesAsset.cs: 42733c664a418dc96e6676ab6a569041 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropHoverData.cs: 7ec3eb6fae482fe5e6eca733189b11c1 -> 
+  custom:scripting/monoscript/fileName/PickingTool.cs: ad2b06cfab7c0bf6799fc818866d02f2 -> 
+  custom:scripting/monoscript/fileName/TilePaletteSaveUtility.cs: 99a98ca4128eb1b36fa13076970c6958 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/RandomBrush.cs: 060c140be746a8829fe39acd3b5de27b -> 
+  custom:scripting/monoscript/fileName/GridInformation.cs: 8abdd979e31f8615c6f0260032387547 -> 
+  custom:scripting/monoscript/fileName/GridSelectionRotationTool.cs: 034710c503c59a634a73a03fd24dd739 -> 
+  custom:scripting/monoscript/fileName/BoolFieldOverlayPopupWindow.cs: 25281e84d45ea134dccf87aa853796bf -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindow.cs: 1d497ecc185c46bb1043a6ede8ff1c0f -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTile.cs: 1fddf97303287ca0ab3797af3c741b42 -> 
+  custom:scripting/monoscript/fileName/TilePaletteElement.cs: 821f71de4b61685d39463a4a06a9c842 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropManager.cs: a1e23a7638297e1dda515dc0e84bf55a -> 
+  custom:scripting/monoscript/fileName/MoveTool.cs: 3e41e228f8fb535351f8fd508c5d7aa6 -> 
+  custom:scripting/monoscript/fileName/SelectTool.cs: 51558befbff43680f5a337c7469e3a7b -> 
+  custom:scripting/monoscript/fileName/TilePalettePrefabUtility.cs: 81c112f431eead6c17358b4dc7196dd1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePaletteDropdownMenu.cs: a47d79fd3aaf47be319da9214e3a9bb3 -> 
+  custom:scripting/monoscript/fileName/AnimatedTileEditor.cs: 41202be2ca5b787f20f8458252d021bc -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsPopup.cs: c19a5ac974961902d5fcecf1d440b17a -> 
+  custom:scripting/monoscript/fileName/GridPaletteEditor.cs: 9ca70426b6bdbb830263d2f1b512a658 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushPanelButton.cs: 2a4d4194710daaf7059f8f324842178b -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorPopup.cs: bae9f2c04afcee02fd74cc185afc7936 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownToggle.cs: c496745875bd2dedf400d11fa8d2a39c -> 
+  custom:scripting/monoscript/fileName/FlipTool.cs: 57a6cd18545afdc27969bc68fde89cb1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteMouseCursorUtility.cs: 684f600f1129c3cb4df290f4bc53b930 -> 
+  custom:scripting/monoscript/fileName/GridPaintingToolbar.cs: 71eec3aa936c54c332bdeff43f265da8 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTile.cs: 06dd7fca2700fb4aaa03a7cd13f58833 -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTileEditor.cs: 4cf007e646aa016389fb16663382c73c -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridSelectionTool.cs: e3b447b578d18e550e3fd09eb4616407 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsDropdownMenu.cs: 4c73999c1bc87ae86dc4336104c225a9 -> 
+  custom:scripting/monoscript/fileName/GridPaintTargetsDropdown.cs: 1a02fee05143bec519533f49a8d1bebc -> 
+  custom:scripting/monoscript/fileName/GroupBrush.cs: b4c96b6e07e535d84dea8fa33a1ee653 -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTileEditor.cs: f5f3e25e9690be1c73bbc0525b4d0b70 -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTile.cs: 27a3183bf22a5a9447c8b9239d8f3655 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16b3c3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.246 seconds
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.605 seconds
+Domain Reload Profiling: 851ms
+	BeginReloadAssembly (79ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (20ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (11ms)
+	LoadAllAssembliesAndSetupDomain (128ms)
+		LoadAssemblies (148ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (10ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (605ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (221ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (34ms)
+			ProcessInitializeOnLoadAttributes (166ms)
+			ProcessInitializeOnLoadMethodAttributes (14ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 1.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3189 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.6 KB). Loaded Objects now: 3881.
+Memory consumption went from 397.9 MB to 397.8 MB.
+Total: 2.354708 ms (FindLiveObjects: 0.135625 ms CreateObjectMapping: 0.052459 ms MarkObjects: 2.138166 ms  DeleteObjects: 0.027750 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/GridSelectionEditor.cs: b0830b2bf3f4ec3f6b4728180aba6475 -> 
+  custom:scripting/monoscript/fileName/GridSelectionMoveTool.cs: 045959d7a1acd1d565cd175dc65f7851 -> 
+  custom:scripting/monoscript/fileName/RuleTileEditor.cs: 79f13bbbfb485ee67c9a14570e36e085 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownMenu.cs: 83cccb1cc3875d5c0f94901c5a82ccab -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTileEditor.cs: 54ccbabc2015b49c6431a6b2023ec05b -> 
+  custom:scripting/monoscript/fileName/TilePaletteDragHandler.cs: 33cd7bc1b72f7f8ce9b6c5eb96821cb4 -> 
+  custom:scripting/monoscript/fileName/CreateTileFromPaletteAttribute.cs: 49ba01e4cbae8c43831d8f68d552a9ea -> 
+  custom:scripting/monoscript/fileName/EraseTool.cs: b2930b433d7a76d09c5103fd6fa9815b -> 
+  custom:scripting/monoscript/fileName/GridPaletteBrushes.cs: f682962b899ca3732c6892c2e8583713 -> 
+  custom:scripting/monoscript/fileName/GameObjectCreation.cs: 51d13e20836ef3a10ad0ebed59bdbde4 -> 
+  custom:scripting/monoscript/fileName/BoxTool.cs: 99a18cad4f2fa1ae8d04c0625e0f7a94 -> 
+  custom:scripting/monoscript/fileName/GridBrushesDropdown.cs: c2b0d8f0bca0a3921a0149a2aaafe361 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/TilemapPrefabStageHelper.cs: 44f1fd774e027e09010c4cea43a89765 -> 
+  custom:scripting/monoscript/fileName/GridEditorUtility.cs: 79caab27569f1aaf1370483b77a0eed6 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesPopup.cs: b117489b8fd3a726762a29aaae057971 -> 
+  custom:scripting/monoscript/fileName/GridSelectionScaleTool.cs: ab389a9feae3d29ad2e9ca76435ec24d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorTool.cs: 4a91b937c12531cdbbbbc26ac425cbca -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras: 9722aa6e48a25d628be73e787a5a1bb9 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTileEditor.cs: db810e58b09c64e4891f0d0900bac7f9 -> 
+  custom:scripting/monoscript/fileName/TilePaletteOverlayUtility.cs: dc8cc580b44070af00f5c1a8a3e30146 -> 
+  custom:scripting/monoscript/fileName/GridPalettes.cs: 05ebfa19bce5556c38d8243821b95e4f -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesButton.cs: f63fefeba5246c46efe3054fe7e8ff1e -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTile.cs: 226477e0fda8299a797033f4381d7b8f -> 
+  custom:scripting/monoscript/fileName/SceneViewGridManager.cs: 95fee1927d423310ba7aac18e1743e68 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsProperties.cs: 3c61ac15c80e0acfb6b6f6a93b9c2f7c -> 
+  custom:scripting/monoscript/fileName/GridSelectionToolEditor.cs: cf616a74bb2f9276d21997cd9c2c33e2 -> 
+  custom:scripting/monoscript/fileName/TilemapFocusModeUtility.cs: 56848ecd8aaf6704fc633228e67df6a2 -> 
+  custom:scripting/monoscript/fileName/AnimatedTile.cs: b22e1be758aa3632efe2ad109fb97030 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsButton.cs: e78565d1f8fb504d1e27cd33aee954a6 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteHelper.cs: 3fa016a943052bc6aa2e17496be83d99 -> 
+  custom:scripting/monoscript/fileName/MenuItemOrder.cs: 0c2a8b61e17835b8f2084ff2294259d0 -> 
+  custom:scripting/monoscript/fileName/GridPalettesDropdown.cs: c3eee8db1c244df7a8abb5dd90d1cd39 -> 
+  custom:scripting/monoscript/fileName/BrushToolsAttribute.cs: 07c3ce23d7664c866d082c14955fc570 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardButton.cs: 12e65d1181e6c35cbf046b81b301a908 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/CustomRuleTileMenu.cs: 44fb1e06a86558bd44bae993c9daf6c0 -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolbarStrip.cs: 3b09bb7c9508f28705fc70ed3a82a917 -> 
+  custom:scripting/monoscript/fileName/GridBrushEditor.cs: afd10d6c25e4dee28d1dd55bdbbf1155 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowSplitView.cs: 3055e63c32343a994785f777fb8a04eb -> 
+  custom:scripting/monoscript/fileName/GridPaletteAddPopup.cs: 4117721b3ecbb12bd0cf4e10caeebdad -> 
+  custom:scripting/monoscript/fileName/TileDragAndDrop.cs: b35ab1f4232799adb75b33a260fe44f2 -> 
+  custom:scripting/monoscript/fileName/TileUtility.cs: f1465daed90b124a361d1b7354e9b99a -> 
+  custom:scripting/monoscript/fileName/PopulateRuleOverrideTileWizard.cs: e9938d8d26487451054d1df1a65708f7 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Editor: c63f35b4be2093bcf46770a8fbd6e1fe -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorElement.cs: a9e9b82fa2a5bb9267ca4498f3dd157f -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteClipboard.cs: 7cd44e8a0b877591749257e5bc06900b -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardElement.cs: 9f42d126d3040ca37a531f760f418560 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspector.cs: dabf99b6cb469f7e1a014ed2d8b57854 -> 
+  custom:scripting/monoscript/fileName/LineBrush.cs: 8db0af8b46a7fc8f13e7177ede2caeba -> 
+  custom:scripting/monoscript/fileName/GridSelection.cs: d0dea8ce5af83014aa5391e8d6adf81c -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/GridPaintSortingAttribute.cs: 682e3d84c0bb9409c8038dde6cc6eaaa -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesLabel.cs: 50d6652b738f203c7a782d3c9e81384d -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/FillTool.cs: 31d1f393d06835eb58df2ad8c9b0407d -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteOverlay.cs: 9e154d415d7ab024c8551aae194f4532 -> 
+  custom:scripting/monoscript/fileName/SceneViewTilemapFocusOverlay.cs: 409b7579c9eddabad834478b2a2731cf -> 
+  custom:scripting/monoscript/fileName/GridBrush.cs: 0271bb4294dfd9c52b85d2ef18c21adf -> 
+  custom:scripting/monoscript/fileName/RuleTile.cs: f5f493643c39cafead8f05df075b38cf -> 
+  custom:scripting/monoscript/fileName/GameObjectBrush.cs: 87ba7a109062396c16824845dba02c1a -> 
+  custom:scripting/monoscript/fileName/TilePaletteContextMenuHandler.cs: 11689ac7a1e231b785fe9ee59440e8df -> 
+  custom:scripting/monoscript/fileName/GridBrushEditorBase.cs: 8dc6b8dd5b5c3920622a5c826cdb9a3e -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferences.cs: d34ae7afe7e42324c1a8dc1ee5c53101 -> 
+  custom:scripting/monoscript/fileName/PaintableGrid.cs: c538d5369d23cf604300c6f8a077b5d0 -> 
+  custom:scripting/monoscript/fileName/DefaultAssetCreation.cs: c2d4009190ffa48d1a68c12ac7902a37 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras.Editor: 5ad91861b07fefd995e74ac55c89582d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolButton.cs: 452256babee1fc6246907201b775c9ca -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowPreferences.cs: 506574d5ebc55d1c3ac5809521be171c -> 
+  custom:scripting/monoscript/fileName/RotateTool.cs: a45c53b4cde318c91ea55e570037bddd -> 
+  custom:scripting/monoscript/fileName/GridSelectionTransformTool.cs: 0102964ac3ceb594b7800c6267f18cf7 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePalettePopup.cs: d8ea341556e28c44f8ce8bb6cb513430 -> 
+  custom:scripting/monoscript/fileName/PaintTool.cs: b088555e5c7bac451566d0ed1b585c0f -> 
+  custom:scripting/monoscript/fileName/GridPaintingState.cs: 5b65b03e1c11595f69bba16eea8cd664 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowActiveTargets.cs: a9f6bc687e35dc605b0de621410da416 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardPanelPopup.cs: 481659589c6d2cf5d49bb3c51e9e2785 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/GridPaletteUtility.cs: a64eece78a61bcc19caeb2b2a114ba40 -> 
+  custom:scripting/monoscript/fileName/PaintableSceneViewGrid.cs: 668faf831cc940b1ebbed80737459bca -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferencesAsset.cs: 42733c664a418dc96e6676ab6a569041 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropHoverData.cs: 7ec3eb6fae482fe5e6eca733189b11c1 -> 
+  custom:scripting/monoscript/fileName/PickingTool.cs: ad2b06cfab7c0bf6799fc818866d02f2 -> 
+  custom:scripting/monoscript/fileName/TilePaletteSaveUtility.cs: 99a98ca4128eb1b36fa13076970c6958 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/RandomBrush.cs: 060c140be746a8829fe39acd3b5de27b -> 
+  custom:scripting/monoscript/fileName/GridInformation.cs: 8abdd979e31f8615c6f0260032387547 -> 
+  custom:scripting/monoscript/fileName/GridSelectionRotationTool.cs: 034710c503c59a634a73a03fd24dd739 -> 
+  custom:scripting/monoscript/fileName/BoolFieldOverlayPopupWindow.cs: 25281e84d45ea134dccf87aa853796bf -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindow.cs: 1d497ecc185c46bb1043a6ede8ff1c0f -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTile.cs: 1fddf97303287ca0ab3797af3c741b42 -> 
+  custom:scripting/monoscript/fileName/TilePaletteElement.cs: 821f71de4b61685d39463a4a06a9c842 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropManager.cs: a1e23a7638297e1dda515dc0e84bf55a -> 
+  custom:scripting/monoscript/fileName/MoveTool.cs: 3e41e228f8fb535351f8fd508c5d7aa6 -> 
+  custom:scripting/monoscript/fileName/SelectTool.cs: 51558befbff43680f5a337c7469e3a7b -> 
+  custom:scripting/monoscript/fileName/TilePalettePrefabUtility.cs: 81c112f431eead6c17358b4dc7196dd1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePaletteDropdownMenu.cs: a47d79fd3aaf47be319da9214e3a9bb3 -> 
+  custom:scripting/monoscript/fileName/AnimatedTileEditor.cs: 41202be2ca5b787f20f8458252d021bc -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsPopup.cs: c19a5ac974961902d5fcecf1d440b17a -> 
+  custom:scripting/monoscript/fileName/GridPaletteEditor.cs: 9ca70426b6bdbb830263d2f1b512a658 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushPanelButton.cs: 2a4d4194710daaf7059f8f324842178b -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorPopup.cs: bae9f2c04afcee02fd74cc185afc7936 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownToggle.cs: c496745875bd2dedf400d11fa8d2a39c -> 
+  custom:scripting/monoscript/fileName/FlipTool.cs: 57a6cd18545afdc27969bc68fde89cb1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteMouseCursorUtility.cs: 684f600f1129c3cb4df290f4bc53b930 -> 
+  custom:scripting/monoscript/fileName/GridPaintingToolbar.cs: 71eec3aa936c54c332bdeff43f265da8 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTile.cs: 06dd7fca2700fb4aaa03a7cd13f58833 -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTileEditor.cs: 4cf007e646aa016389fb16663382c73c -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridSelectionTool.cs: e3b447b578d18e550e3fd09eb4616407 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsDropdownMenu.cs: 4c73999c1bc87ae86dc4336104c225a9 -> 
+  custom:scripting/monoscript/fileName/GridPaintTargetsDropdown.cs: 1a02fee05143bec519533f49a8d1bebc -> 
+  custom:scripting/monoscript/fileName/GroupBrush.cs: b4c96b6e07e535d84dea8fa33a1ee653 -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTileEditor.cs: f5f3e25e9690be1c73bbc0525b4d0b70 -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTile.cs: 27a3183bf22a5a9447c8b9239d8f3655 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16b3c3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.257 seconds
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.639 seconds
+Domain Reload Profiling: 896ms
+	BeginReloadAssembly (86ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (130ms)
+		LoadAssemblies (153ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (10ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (639ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (215ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (33ms)
+			ProcessInitializeOnLoadAttributes (162ms)
+			ProcessInitializeOnLoadMethodAttributes (13ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Refreshing native plugins compatible for Editor in 1.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3189 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.6 KB). Loaded Objects now: 3884.
+Memory consumption went from 403.0 MB to 403.0 MB.
+Total: 2.576500 ms (FindLiveObjects: 0.341083 ms CreateObjectMapping: 0.050875 ms MarkObjects: 2.150958 ms  DeleteObjects: 0.033167 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/GridSelectionEditor.cs: b0830b2bf3f4ec3f6b4728180aba6475 -> 
+  custom:scripting/monoscript/fileName/GridSelectionMoveTool.cs: 045959d7a1acd1d565cd175dc65f7851 -> 
+  custom:scripting/monoscript/fileName/RuleTileEditor.cs: 79f13bbbfb485ee67c9a14570e36e085 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownMenu.cs: 83cccb1cc3875d5c0f94901c5a82ccab -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTileEditor.cs: 54ccbabc2015b49c6431a6b2023ec05b -> 
+  custom:scripting/monoscript/fileName/TilePaletteDragHandler.cs: 33cd7bc1b72f7f8ce9b6c5eb96821cb4 -> 
+  custom:scripting/monoscript/fileName/CreateTileFromPaletteAttribute.cs: 49ba01e4cbae8c43831d8f68d552a9ea -> 
+  custom:scripting/monoscript/fileName/EraseTool.cs: b2930b433d7a76d09c5103fd6fa9815b -> 
+  custom:scripting/monoscript/fileName/GridPaletteBrushes.cs: f682962b899ca3732c6892c2e8583713 -> 
+  custom:scripting/monoscript/fileName/GameObjectCreation.cs: 51d13e20836ef3a10ad0ebed59bdbde4 -> 
+  custom:scripting/monoscript/fileName/BoxTool.cs: 99a18cad4f2fa1ae8d04c0625e0f7a94 -> 
+  custom:scripting/monoscript/fileName/GridBrushesDropdown.cs: c2b0d8f0bca0a3921a0149a2aaafe361 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/TilemapPrefabStageHelper.cs: 44f1fd774e027e09010c4cea43a89765 -> 
+  custom:scripting/monoscript/fileName/GridEditorUtility.cs: 79caab27569f1aaf1370483b77a0eed6 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesPopup.cs: b117489b8fd3a726762a29aaae057971 -> 
+  custom:scripting/monoscript/fileName/GridSelectionScaleTool.cs: ab389a9feae3d29ad2e9ca76435ec24d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorTool.cs: 4a91b937c12531cdbbbbc26ac425cbca -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras: 9722aa6e48a25d628be73e787a5a1bb9 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTileEditor.cs: db810e58b09c64e4891f0d0900bac7f9 -> 
+  custom:scripting/monoscript/fileName/TilePaletteOverlayUtility.cs: dc8cc580b44070af00f5c1a8a3e30146 -> 
+  custom:scripting/monoscript/fileName/GridPalettes.cs: 05ebfa19bce5556c38d8243821b95e4f -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesButton.cs: f63fefeba5246c46efe3054fe7e8ff1e -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTile.cs: 226477e0fda8299a797033f4381d7b8f -> 
+  custom:scripting/monoscript/fileName/SceneViewGridManager.cs: 95fee1927d423310ba7aac18e1743e68 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsProperties.cs: 3c61ac15c80e0acfb6b6f6a93b9c2f7c -> 
+  custom:scripting/monoscript/fileName/GridSelectionToolEditor.cs: cf616a74bb2f9276d21997cd9c2c33e2 -> 
+  custom:scripting/monoscript/fileName/TilemapFocusModeUtility.cs: 56848ecd8aaf6704fc633228e67df6a2 -> 
+  custom:scripting/monoscript/fileName/AnimatedTile.cs: b22e1be758aa3632efe2ad109fb97030 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsButton.cs: e78565d1f8fb504d1e27cd33aee954a6 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteHelper.cs: 3fa016a943052bc6aa2e17496be83d99 -> 
+  custom:scripting/monoscript/fileName/MenuItemOrder.cs: 0c2a8b61e17835b8f2084ff2294259d0 -> 
+  custom:scripting/monoscript/fileName/GridPalettesDropdown.cs: c3eee8db1c244df7a8abb5dd90d1cd39 -> 
+  custom:scripting/monoscript/fileName/BrushToolsAttribute.cs: 07c3ce23d7664c866d082c14955fc570 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardButton.cs: 12e65d1181e6c35cbf046b81b301a908 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/CustomRuleTileMenu.cs: 44fb1e06a86558bd44bae993c9daf6c0 -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolbarStrip.cs: 3b09bb7c9508f28705fc70ed3a82a917 -> 
+  custom:scripting/monoscript/fileName/GridBrushEditor.cs: afd10d6c25e4dee28d1dd55bdbbf1155 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowSplitView.cs: 3055e63c32343a994785f777fb8a04eb -> 
+  custom:scripting/monoscript/fileName/GridPaletteAddPopup.cs: 4117721b3ecbb12bd0cf4e10caeebdad -> 
+  custom:scripting/monoscript/fileName/TileDragAndDrop.cs: b35ab1f4232799adb75b33a260fe44f2 -> 
+  custom:scripting/monoscript/fileName/TileUtility.cs: f1465daed90b124a361d1b7354e9b99a -> 
+  custom:scripting/monoscript/fileName/PopulateRuleOverrideTileWizard.cs: e9938d8d26487451054d1df1a65708f7 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Editor: c63f35b4be2093bcf46770a8fbd6e1fe -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorElement.cs: a9e9b82fa2a5bb9267ca4498f3dd157f -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteClipboard.cs: 7cd44e8a0b877591749257e5bc06900b -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardElement.cs: 9f42d126d3040ca37a531f760f418560 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspector.cs: dabf99b6cb469f7e1a014ed2d8b57854 -> 
+  custom:scripting/monoscript/fileName/LineBrush.cs: 8db0af8b46a7fc8f13e7177ede2caeba -> 
+  custom:scripting/monoscript/fileName/GridSelection.cs: d0dea8ce5af83014aa5391e8d6adf81c -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/GridPaintSortingAttribute.cs: 682e3d84c0bb9409c8038dde6cc6eaaa -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesLabel.cs: 50d6652b738f203c7a782d3c9e81384d -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/FillTool.cs: 31d1f393d06835eb58df2ad8c9b0407d -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteOverlay.cs: 9e154d415d7ab024c8551aae194f4532 -> 
+  custom:scripting/monoscript/fileName/SceneViewTilemapFocusOverlay.cs: 409b7579c9eddabad834478b2a2731cf -> 
+  custom:scripting/monoscript/fileName/GridBrush.cs: 0271bb4294dfd9c52b85d2ef18c21adf -> 
+  custom:scripting/monoscript/fileName/RuleTile.cs: f5f493643c39cafead8f05df075b38cf -> 
+  custom:scripting/monoscript/fileName/GameObjectBrush.cs: 87ba7a109062396c16824845dba02c1a -> 
+  custom:scripting/monoscript/fileName/TilePaletteContextMenuHandler.cs: 11689ac7a1e231b785fe9ee59440e8df -> 
+  custom:scripting/monoscript/fileName/GridBrushEditorBase.cs: 8dc6b8dd5b5c3920622a5c826cdb9a3e -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferences.cs: d34ae7afe7e42324c1a8dc1ee5c53101 -> 
+  custom:scripting/monoscript/fileName/PaintableGrid.cs: c538d5369d23cf604300c6f8a077b5d0 -> 
+  custom:scripting/monoscript/fileName/DefaultAssetCreation.cs: c2d4009190ffa48d1a68c12ac7902a37 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras.Editor: 5ad91861b07fefd995e74ac55c89582d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolButton.cs: 452256babee1fc6246907201b775c9ca -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowPreferences.cs: 506574d5ebc55d1c3ac5809521be171c -> 
+  custom:scripting/monoscript/fileName/RotateTool.cs: a45c53b4cde318c91ea55e570037bddd -> 
+  custom:scripting/monoscript/fileName/GridSelectionTransformTool.cs: 0102964ac3ceb594b7800c6267f18cf7 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePalettePopup.cs: d8ea341556e28c44f8ce8bb6cb513430 -> 
+  custom:scripting/monoscript/fileName/PaintTool.cs: b088555e5c7bac451566d0ed1b585c0f -> 
+  custom:scripting/monoscript/fileName/GridPaintingState.cs: 5b65b03e1c11595f69bba16eea8cd664 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowActiveTargets.cs: a9f6bc687e35dc605b0de621410da416 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardPanelPopup.cs: 481659589c6d2cf5d49bb3c51e9e2785 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/GridPaletteUtility.cs: a64eece78a61bcc19caeb2b2a114ba40 -> 
+  custom:scripting/monoscript/fileName/PaintableSceneViewGrid.cs: 668faf831cc940b1ebbed80737459bca -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferencesAsset.cs: 42733c664a418dc96e6676ab6a569041 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropHoverData.cs: 7ec3eb6fae482fe5e6eca733189b11c1 -> 
+  custom:scripting/monoscript/fileName/PickingTool.cs: ad2b06cfab7c0bf6799fc818866d02f2 -> 
+  custom:scripting/monoscript/fileName/TilePaletteSaveUtility.cs: 99a98ca4128eb1b36fa13076970c6958 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/RandomBrush.cs: 060c140be746a8829fe39acd3b5de27b -> 
+  custom:scripting/monoscript/fileName/GridInformation.cs: 8abdd979e31f8615c6f0260032387547 -> 
+  custom:scripting/monoscript/fileName/GridSelectionRotationTool.cs: 034710c503c59a634a73a03fd24dd739 -> 
+  custom:scripting/monoscript/fileName/BoolFieldOverlayPopupWindow.cs: 25281e84d45ea134dccf87aa853796bf -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindow.cs: 1d497ecc185c46bb1043a6ede8ff1c0f -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTile.cs: 1fddf97303287ca0ab3797af3c741b42 -> 
+  custom:scripting/monoscript/fileName/TilePaletteElement.cs: 821f71de4b61685d39463a4a06a9c842 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropManager.cs: a1e23a7638297e1dda515dc0e84bf55a -> 
+  custom:scripting/monoscript/fileName/MoveTool.cs: 3e41e228f8fb535351f8fd508c5d7aa6 -> 
+  custom:scripting/monoscript/fileName/SelectTool.cs: 51558befbff43680f5a337c7469e3a7b -> 
+  custom:scripting/monoscript/fileName/TilePalettePrefabUtility.cs: 81c112f431eead6c17358b4dc7196dd1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePaletteDropdownMenu.cs: a47d79fd3aaf47be319da9214e3a9bb3 -> 
+  custom:scripting/monoscript/fileName/AnimatedTileEditor.cs: 41202be2ca5b787f20f8458252d021bc -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsPopup.cs: c19a5ac974961902d5fcecf1d440b17a -> 
+  custom:scripting/monoscript/fileName/GridPaletteEditor.cs: 9ca70426b6bdbb830263d2f1b512a658 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushPanelButton.cs: 2a4d4194710daaf7059f8f324842178b -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorPopup.cs: bae9f2c04afcee02fd74cc185afc7936 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownToggle.cs: c496745875bd2dedf400d11fa8d2a39c -> 
+  custom:scripting/monoscript/fileName/FlipTool.cs: 57a6cd18545afdc27969bc68fde89cb1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteMouseCursorUtility.cs: 684f600f1129c3cb4df290f4bc53b930 -> 
+  custom:scripting/monoscript/fileName/GridPaintingToolbar.cs: 71eec3aa936c54c332bdeff43f265da8 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTile.cs: 06dd7fca2700fb4aaa03a7cd13f58833 -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTileEditor.cs: 4cf007e646aa016389fb16663382c73c -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridSelectionTool.cs: e3b447b578d18e550e3fd09eb4616407 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsDropdownMenu.cs: 4c73999c1bc87ae86dc4336104c225a9 -> 
+  custom:scripting/monoscript/fileName/GridPaintTargetsDropdown.cs: 1a02fee05143bec519533f49a8d1bebc -> 
+  custom:scripting/monoscript/fileName/GroupBrush.cs: b4c96b6e07e535d84dea8fa33a1ee653 -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTileEditor.cs: f5f3e25e9690be1c73bbc0525b4d0b70 -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTile.cs: 27a3183bf22a5a9447c8b9239d8f3655 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16b3c3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.265 seconds
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.661 seconds
+Domain Reload Profiling: 926ms
+	BeginReloadAssembly (85ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (20ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (142ms)
+		LoadAssemblies (162ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (12ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (662ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (235ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (13ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (36ms)
+			ProcessInitializeOnLoadAttributes (169ms)
+			ProcessInitializeOnLoadMethodAttributes (14ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3189 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.6 KB). Loaded Objects now: 3887.
+Memory consumption went from 408.3 MB to 408.3 MB.
+Total: 2.424542 ms (FindLiveObjects: 0.133667 ms CreateObjectMapping: 0.057791 ms MarkObjects: 2.196542 ms  DeleteObjects: 0.036084 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/GridSelectionEditor.cs: b0830b2bf3f4ec3f6b4728180aba6475 -> 
+  custom:scripting/monoscript/fileName/GridSelectionMoveTool.cs: 045959d7a1acd1d565cd175dc65f7851 -> 
+  custom:scripting/monoscript/fileName/RuleTileEditor.cs: 79f13bbbfb485ee67c9a14570e36e085 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownMenu.cs: 83cccb1cc3875d5c0f94901c5a82ccab -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTileEditor.cs: 54ccbabc2015b49c6431a6b2023ec05b -> 
+  custom:scripting/monoscript/fileName/TilePaletteDragHandler.cs: 33cd7bc1b72f7f8ce9b6c5eb96821cb4 -> 
+  custom:scripting/monoscript/fileName/CreateTileFromPaletteAttribute.cs: 49ba01e4cbae8c43831d8f68d552a9ea -> 
+  custom:scripting/monoscript/fileName/EraseTool.cs: b2930b433d7a76d09c5103fd6fa9815b -> 
+  custom:scripting/monoscript/fileName/GridPaletteBrushes.cs: f682962b899ca3732c6892c2e8583713 -> 
+  custom:scripting/monoscript/fileName/GameObjectCreation.cs: 51d13e20836ef3a10ad0ebed59bdbde4 -> 
+  custom:scripting/monoscript/fileName/BoxTool.cs: 99a18cad4f2fa1ae8d04c0625e0f7a94 -> 
+  custom:scripting/monoscript/fileName/GridBrushesDropdown.cs: c2b0d8f0bca0a3921a0149a2aaafe361 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/TilemapPrefabStageHelper.cs: 44f1fd774e027e09010c4cea43a89765 -> 
+  custom:scripting/monoscript/fileName/GridEditorUtility.cs: 79caab27569f1aaf1370483b77a0eed6 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesPopup.cs: b117489b8fd3a726762a29aaae057971 -> 
+  custom:scripting/monoscript/fileName/GridSelectionScaleTool.cs: ab389a9feae3d29ad2e9ca76435ec24d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorTool.cs: 4a91b937c12531cdbbbbc26ac425cbca -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras: 9722aa6e48a25d628be73e787a5a1bb9 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTileEditor.cs: db810e58b09c64e4891f0d0900bac7f9 -> 
+  custom:scripting/monoscript/fileName/TilePaletteOverlayUtility.cs: dc8cc580b44070af00f5c1a8a3e30146 -> 
+  custom:scripting/monoscript/fileName/GridPalettes.cs: 05ebfa19bce5556c38d8243821b95e4f -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesButton.cs: f63fefeba5246c46efe3054fe7e8ff1e -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTile.cs: 226477e0fda8299a797033f4381d7b8f -> 
+  custom:scripting/monoscript/fileName/SceneViewGridManager.cs: 95fee1927d423310ba7aac18e1743e68 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsProperties.cs: 3c61ac15c80e0acfb6b6f6a93b9c2f7c -> 
+  custom:scripting/monoscript/fileName/GridSelectionToolEditor.cs: cf616a74bb2f9276d21997cd9c2c33e2 -> 
+  custom:scripting/monoscript/fileName/TilemapFocusModeUtility.cs: 56848ecd8aaf6704fc633228e67df6a2 -> 
+  custom:scripting/monoscript/fileName/AnimatedTile.cs: b22e1be758aa3632efe2ad109fb97030 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsButton.cs: e78565d1f8fb504d1e27cd33aee954a6 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteHelper.cs: 3fa016a943052bc6aa2e17496be83d99 -> 
+  custom:scripting/monoscript/fileName/MenuItemOrder.cs: 0c2a8b61e17835b8f2084ff2294259d0 -> 
+  custom:scripting/monoscript/fileName/GridPalettesDropdown.cs: c3eee8db1c244df7a8abb5dd90d1cd39 -> 
+  custom:scripting/monoscript/fileName/BrushToolsAttribute.cs: 07c3ce23d7664c866d082c14955fc570 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardButton.cs: 12e65d1181e6c35cbf046b81b301a908 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/CustomRuleTileMenu.cs: 44fb1e06a86558bd44bae993c9daf6c0 -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolbarStrip.cs: 3b09bb7c9508f28705fc70ed3a82a917 -> 
+  custom:scripting/monoscript/fileName/GridBrushEditor.cs: afd10d6c25e4dee28d1dd55bdbbf1155 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowSplitView.cs: 3055e63c32343a994785f777fb8a04eb -> 
+  custom:scripting/monoscript/fileName/GridPaletteAddPopup.cs: 4117721b3ecbb12bd0cf4e10caeebdad -> 
+  custom:scripting/monoscript/fileName/TileDragAndDrop.cs: b35ab1f4232799adb75b33a260fe44f2 -> 
+  custom:scripting/monoscript/fileName/TileUtility.cs: f1465daed90b124a361d1b7354e9b99a -> 
+  custom:scripting/monoscript/fileName/PopulateRuleOverrideTileWizard.cs: e9938d8d26487451054d1df1a65708f7 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Editor: c63f35b4be2093bcf46770a8fbd6e1fe -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorElement.cs: a9e9b82fa2a5bb9267ca4498f3dd157f -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteClipboard.cs: 7cd44e8a0b877591749257e5bc06900b -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardElement.cs: 9f42d126d3040ca37a531f760f418560 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspector.cs: dabf99b6cb469f7e1a014ed2d8b57854 -> 
+  custom:scripting/monoscript/fileName/LineBrush.cs: 8db0af8b46a7fc8f13e7177ede2caeba -> 
+  custom:scripting/monoscript/fileName/GridSelection.cs: d0dea8ce5af83014aa5391e8d6adf81c -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/GridPaintSortingAttribute.cs: 682e3d84c0bb9409c8038dde6cc6eaaa -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesLabel.cs: 50d6652b738f203c7a782d3c9e81384d -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/FillTool.cs: 31d1f393d06835eb58df2ad8c9b0407d -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteOverlay.cs: 9e154d415d7ab024c8551aae194f4532 -> 
+  custom:scripting/monoscript/fileName/SceneViewTilemapFocusOverlay.cs: 409b7579c9eddabad834478b2a2731cf -> 
+  custom:scripting/monoscript/fileName/GridBrush.cs: 0271bb4294dfd9c52b85d2ef18c21adf -> 
+  custom:scripting/monoscript/fileName/RuleTile.cs: f5f493643c39cafead8f05df075b38cf -> 
+  custom:scripting/monoscript/fileName/GameObjectBrush.cs: 87ba7a109062396c16824845dba02c1a -> 
+  custom:scripting/monoscript/fileName/TilePaletteContextMenuHandler.cs: 11689ac7a1e231b785fe9ee59440e8df -> 
+  custom:scripting/monoscript/fileName/GridBrushEditorBase.cs: 8dc6b8dd5b5c3920622a5c826cdb9a3e -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferences.cs: d34ae7afe7e42324c1a8dc1ee5c53101 -> 
+  custom:scripting/monoscript/fileName/PaintableGrid.cs: c538d5369d23cf604300c6f8a077b5d0 -> 
+  custom:scripting/monoscript/fileName/DefaultAssetCreation.cs: c2d4009190ffa48d1a68c12ac7902a37 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras.Editor: 5ad91861b07fefd995e74ac55c89582d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolButton.cs: 452256babee1fc6246907201b775c9ca -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowPreferences.cs: 506574d5ebc55d1c3ac5809521be171c -> 
+  custom:scripting/monoscript/fileName/RotateTool.cs: a45c53b4cde318c91ea55e570037bddd -> 
+  custom:scripting/monoscript/fileName/GridSelectionTransformTool.cs: 0102964ac3ceb594b7800c6267f18cf7 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePalettePopup.cs: d8ea341556e28c44f8ce8bb6cb513430 -> 
+  custom:scripting/monoscript/fileName/PaintTool.cs: b088555e5c7bac451566d0ed1b585c0f -> 
+  custom:scripting/monoscript/fileName/GridPaintingState.cs: 5b65b03e1c11595f69bba16eea8cd664 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowActiveTargets.cs: a9f6bc687e35dc605b0de621410da416 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardPanelPopup.cs: 481659589c6d2cf5d49bb3c51e9e2785 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/GridPaletteUtility.cs: a64eece78a61bcc19caeb2b2a114ba40 -> 
+  custom:scripting/monoscript/fileName/PaintableSceneViewGrid.cs: 668faf831cc940b1ebbed80737459bca -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferencesAsset.cs: 42733c664a418dc96e6676ab6a569041 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropHoverData.cs: 7ec3eb6fae482fe5e6eca733189b11c1 -> 
+  custom:scripting/monoscript/fileName/PickingTool.cs: ad2b06cfab7c0bf6799fc818866d02f2 -> 
+  custom:scripting/monoscript/fileName/TilePaletteSaveUtility.cs: 99a98ca4128eb1b36fa13076970c6958 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/RandomBrush.cs: 060c140be746a8829fe39acd3b5de27b -> 
+  custom:scripting/monoscript/fileName/GridInformation.cs: 8abdd979e31f8615c6f0260032387547 -> 
+  custom:scripting/monoscript/fileName/GridSelectionRotationTool.cs: 034710c503c59a634a73a03fd24dd739 -> 
+  custom:scripting/monoscript/fileName/BoolFieldOverlayPopupWindow.cs: 25281e84d45ea134dccf87aa853796bf -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindow.cs: 1d497ecc185c46bb1043a6ede8ff1c0f -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTile.cs: 1fddf97303287ca0ab3797af3c741b42 -> 
+  custom:scripting/monoscript/fileName/TilePaletteElement.cs: 821f71de4b61685d39463a4a06a9c842 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropManager.cs: a1e23a7638297e1dda515dc0e84bf55a -> 
+  custom:scripting/monoscript/fileName/MoveTool.cs: 3e41e228f8fb535351f8fd508c5d7aa6 -> 
+  custom:scripting/monoscript/fileName/SelectTool.cs: 51558befbff43680f5a337c7469e3a7b -> 
+  custom:scripting/monoscript/fileName/TilePalettePrefabUtility.cs: 81c112f431eead6c17358b4dc7196dd1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePaletteDropdownMenu.cs: a47d79fd3aaf47be319da9214e3a9bb3 -> 
+  custom:scripting/monoscript/fileName/AnimatedTileEditor.cs: 41202be2ca5b787f20f8458252d021bc -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsPopup.cs: c19a5ac974961902d5fcecf1d440b17a -> 
+  custom:scripting/monoscript/fileName/GridPaletteEditor.cs: 9ca70426b6bdbb830263d2f1b512a658 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushPanelButton.cs: 2a4d4194710daaf7059f8f324842178b -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorPopup.cs: bae9f2c04afcee02fd74cc185afc7936 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownToggle.cs: c496745875bd2dedf400d11fa8d2a39c -> 
+  custom:scripting/monoscript/fileName/FlipTool.cs: 57a6cd18545afdc27969bc68fde89cb1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteMouseCursorUtility.cs: 684f600f1129c3cb4df290f4bc53b930 -> 
+  custom:scripting/monoscript/fileName/GridPaintingToolbar.cs: 71eec3aa936c54c332bdeff43f265da8 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTile.cs: 06dd7fca2700fb4aaa03a7cd13f58833 -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTileEditor.cs: 4cf007e646aa016389fb16663382c73c -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridSelectionTool.cs: e3b447b578d18e550e3fd09eb4616407 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsDropdownMenu.cs: 4c73999c1bc87ae86dc4336104c225a9 -> 
+  custom:scripting/monoscript/fileName/GridPaintTargetsDropdown.cs: 1a02fee05143bec519533f49a8d1bebc -> 
+  custom:scripting/monoscript/fileName/GroupBrush.cs: b4c96b6e07e535d84dea8fa33a1ee653 -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTileEditor.cs: f5f3e25e9690be1c73bbc0525b4d0b70 -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTile.cs: 27a3183bf22a5a9447c8b9239d8f3655 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16b3c3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.218 seconds
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.605 seconds
+Domain Reload Profiling: 823ms
+	BeginReloadAssembly (72ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (21ms)
+	RebuildCommonClasses (19ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (11ms)
+	LoadAllAssembliesAndSetupDomain (109ms)
+		LoadAssemblies (127ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (9ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (605ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (218ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (34ms)
+			ProcessInitializeOnLoadAttributes (165ms)
+			ProcessInitializeOnLoadMethodAttributes (13ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 1.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3189 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.5 KB). Loaded Objects now: 3890.
+Memory consumption went from 413.6 MB to 413.6 MB.
+Total: 2.450792 ms (FindLiveObjects: 0.124208 ms CreateObjectMapping: 0.050667 ms MarkObjects: 2.246666 ms  DeleteObjects: 0.028542 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/GridSelectionEditor.cs: b0830b2bf3f4ec3f6b4728180aba6475 -> 
+  custom:scripting/monoscript/fileName/GridSelectionMoveTool.cs: 045959d7a1acd1d565cd175dc65f7851 -> 
+  custom:scripting/monoscript/fileName/RuleTileEditor.cs: 79f13bbbfb485ee67c9a14570e36e085 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownMenu.cs: 83cccb1cc3875d5c0f94901c5a82ccab -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTileEditor.cs: 54ccbabc2015b49c6431a6b2023ec05b -> 
+  custom:scripting/monoscript/fileName/TilePaletteDragHandler.cs: 33cd7bc1b72f7f8ce9b6c5eb96821cb4 -> 
+  custom:scripting/monoscript/fileName/CreateTileFromPaletteAttribute.cs: 49ba01e4cbae8c43831d8f68d552a9ea -> 
+  custom:scripting/monoscript/fileName/EraseTool.cs: b2930b433d7a76d09c5103fd6fa9815b -> 
+  custom:scripting/monoscript/fileName/GridPaletteBrushes.cs: f682962b899ca3732c6892c2e8583713 -> 
+  custom:scripting/monoscript/fileName/GameObjectCreation.cs: 51d13e20836ef3a10ad0ebed59bdbde4 -> 
+  custom:scripting/monoscript/fileName/BoxTool.cs: 99a18cad4f2fa1ae8d04c0625e0f7a94 -> 
+  custom:scripting/monoscript/fileName/GridBrushesDropdown.cs: c2b0d8f0bca0a3921a0149a2aaafe361 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/TilemapPrefabStageHelper.cs: 44f1fd774e027e09010c4cea43a89765 -> 
+  custom:scripting/monoscript/fileName/GridEditorUtility.cs: 79caab27569f1aaf1370483b77a0eed6 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesPopup.cs: b117489b8fd3a726762a29aaae057971 -> 
+  custom:scripting/monoscript/fileName/GridSelectionScaleTool.cs: ab389a9feae3d29ad2e9ca76435ec24d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorTool.cs: 4a91b937c12531cdbbbbc26ac425cbca -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras: 9722aa6e48a25d628be73e787a5a1bb9 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTileEditor.cs: db810e58b09c64e4891f0d0900bac7f9 -> 
+  custom:scripting/monoscript/fileName/TilePaletteOverlayUtility.cs: dc8cc580b44070af00f5c1a8a3e30146 -> 
+  custom:scripting/monoscript/fileName/GridPalettes.cs: 05ebfa19bce5556c38d8243821b95e4f -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesButton.cs: f63fefeba5246c46efe3054fe7e8ff1e -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTile.cs: 226477e0fda8299a797033f4381d7b8f -> 
+  custom:scripting/monoscript/fileName/SceneViewGridManager.cs: 95fee1927d423310ba7aac18e1743e68 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsProperties.cs: 3c61ac15c80e0acfb6b6f6a93b9c2f7c -> 
+  custom:scripting/monoscript/fileName/GridSelectionToolEditor.cs: cf616a74bb2f9276d21997cd9c2c33e2 -> 
+  custom:scripting/monoscript/fileName/TilemapFocusModeUtility.cs: 56848ecd8aaf6704fc633228e67df6a2 -> 
+  custom:scripting/monoscript/fileName/AnimatedTile.cs: b22e1be758aa3632efe2ad109fb97030 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsButton.cs: e78565d1f8fb504d1e27cd33aee954a6 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteHelper.cs: 3fa016a943052bc6aa2e17496be83d99 -> 
+  custom:scripting/monoscript/fileName/MenuItemOrder.cs: 0c2a8b61e17835b8f2084ff2294259d0 -> 
+  custom:scripting/monoscript/fileName/GridPalettesDropdown.cs: c3eee8db1c244df7a8abb5dd90d1cd39 -> 
+  custom:scripting/monoscript/fileName/BrushToolsAttribute.cs: 07c3ce23d7664c866d082c14955fc570 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardButton.cs: 12e65d1181e6c35cbf046b81b301a908 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/CustomRuleTileMenu.cs: 44fb1e06a86558bd44bae993c9daf6c0 -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolbarStrip.cs: 3b09bb7c9508f28705fc70ed3a82a917 -> 
+  custom:scripting/monoscript/fileName/GridBrushEditor.cs: afd10d6c25e4dee28d1dd55bdbbf1155 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowSplitView.cs: 3055e63c32343a994785f777fb8a04eb -> 
+  custom:scripting/monoscript/fileName/GridPaletteAddPopup.cs: 4117721b3ecbb12bd0cf4e10caeebdad -> 
+  custom:scripting/monoscript/fileName/TileDragAndDrop.cs: b35ab1f4232799adb75b33a260fe44f2 -> 
+  custom:scripting/monoscript/fileName/TileUtility.cs: f1465daed90b124a361d1b7354e9b99a -> 
+  custom:scripting/monoscript/fileName/PopulateRuleOverrideTileWizard.cs: e9938d8d26487451054d1df1a65708f7 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Editor: c63f35b4be2093bcf46770a8fbd6e1fe -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorElement.cs: a9e9b82fa2a5bb9267ca4498f3dd157f -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteClipboard.cs: 7cd44e8a0b877591749257e5bc06900b -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardElement.cs: 9f42d126d3040ca37a531f760f418560 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspector.cs: dabf99b6cb469f7e1a014ed2d8b57854 -> 
+  custom:scripting/monoscript/fileName/LineBrush.cs: 8db0af8b46a7fc8f13e7177ede2caeba -> 
+  custom:scripting/monoscript/fileName/GridSelection.cs: d0dea8ce5af83014aa5391e8d6adf81c -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/GridPaintSortingAttribute.cs: 682e3d84c0bb9409c8038dde6cc6eaaa -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesLabel.cs: 50d6652b738f203c7a782d3c9e81384d -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/FillTool.cs: 31d1f393d06835eb58df2ad8c9b0407d -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteOverlay.cs: 9e154d415d7ab024c8551aae194f4532 -> 
+  custom:scripting/monoscript/fileName/SceneViewTilemapFocusOverlay.cs: 409b7579c9eddabad834478b2a2731cf -> 
+  custom:scripting/monoscript/fileName/GridBrush.cs: 0271bb4294dfd9c52b85d2ef18c21adf -> 
+  custom:scripting/monoscript/fileName/RuleTile.cs: f5f493643c39cafead8f05df075b38cf -> 
+  custom:scripting/monoscript/fileName/GameObjectBrush.cs: 87ba7a109062396c16824845dba02c1a -> 
+  custom:scripting/monoscript/fileName/TilePaletteContextMenuHandler.cs: 11689ac7a1e231b785fe9ee59440e8df -> 
+  custom:scripting/monoscript/fileName/GridBrushEditorBase.cs: 8dc6b8dd5b5c3920622a5c826cdb9a3e -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferences.cs: d34ae7afe7e42324c1a8dc1ee5c53101 -> 
+  custom:scripting/monoscript/fileName/PaintableGrid.cs: c538d5369d23cf604300c6f8a077b5d0 -> 
+  custom:scripting/monoscript/fileName/DefaultAssetCreation.cs: c2d4009190ffa48d1a68c12ac7902a37 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras.Editor: 5ad91861b07fefd995e74ac55c89582d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolButton.cs: 452256babee1fc6246907201b775c9ca -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowPreferences.cs: 506574d5ebc55d1c3ac5809521be171c -> 
+  custom:scripting/monoscript/fileName/RotateTool.cs: a45c53b4cde318c91ea55e570037bddd -> 
+  custom:scripting/monoscript/fileName/GridSelectionTransformTool.cs: 0102964ac3ceb594b7800c6267f18cf7 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePalettePopup.cs: d8ea341556e28c44f8ce8bb6cb513430 -> 
+  custom:scripting/monoscript/fileName/PaintTool.cs: b088555e5c7bac451566d0ed1b585c0f -> 
+  custom:scripting/monoscript/fileName/GridPaintingState.cs: 5b65b03e1c11595f69bba16eea8cd664 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowActiveTargets.cs: a9f6bc687e35dc605b0de621410da416 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardPanelPopup.cs: 481659589c6d2cf5d49bb3c51e9e2785 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/GridPaletteUtility.cs: a64eece78a61bcc19caeb2b2a114ba40 -> 
+  custom:scripting/monoscript/fileName/PaintableSceneViewGrid.cs: 668faf831cc940b1ebbed80737459bca -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferencesAsset.cs: 42733c664a418dc96e6676ab6a569041 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropHoverData.cs: 7ec3eb6fae482fe5e6eca733189b11c1 -> 
+  custom:scripting/monoscript/fileName/PickingTool.cs: ad2b06cfab7c0bf6799fc818866d02f2 -> 
+  custom:scripting/monoscript/fileName/TilePaletteSaveUtility.cs: 99a98ca4128eb1b36fa13076970c6958 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/RandomBrush.cs: 060c140be746a8829fe39acd3b5de27b -> 
+  custom:scripting/monoscript/fileName/GridInformation.cs: 8abdd979e31f8615c6f0260032387547 -> 
+  custom:scripting/monoscript/fileName/GridSelectionRotationTool.cs: 034710c503c59a634a73a03fd24dd739 -> 
+  custom:scripting/monoscript/fileName/BoolFieldOverlayPopupWindow.cs: 25281e84d45ea134dccf87aa853796bf -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindow.cs: 1d497ecc185c46bb1043a6ede8ff1c0f -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTile.cs: 1fddf97303287ca0ab3797af3c741b42 -> 
+  custom:scripting/monoscript/fileName/TilePaletteElement.cs: 821f71de4b61685d39463a4a06a9c842 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropManager.cs: a1e23a7638297e1dda515dc0e84bf55a -> 
+  custom:scripting/monoscript/fileName/MoveTool.cs: 3e41e228f8fb535351f8fd508c5d7aa6 -> 
+  custom:scripting/monoscript/fileName/SelectTool.cs: 51558befbff43680f5a337c7469e3a7b -> 
+  custom:scripting/monoscript/fileName/TilePalettePrefabUtility.cs: 81c112f431eead6c17358b4dc7196dd1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePaletteDropdownMenu.cs: a47d79fd3aaf47be319da9214e3a9bb3 -> 
+  custom:scripting/monoscript/fileName/AnimatedTileEditor.cs: 41202be2ca5b787f20f8458252d021bc -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsPopup.cs: c19a5ac974961902d5fcecf1d440b17a -> 
+  custom:scripting/monoscript/fileName/GridPaletteEditor.cs: 9ca70426b6bdbb830263d2f1b512a658 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushPanelButton.cs: 2a4d4194710daaf7059f8f324842178b -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorPopup.cs: bae9f2c04afcee02fd74cc185afc7936 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownToggle.cs: c496745875bd2dedf400d11fa8d2a39c -> 
+  custom:scripting/monoscript/fileName/FlipTool.cs: 57a6cd18545afdc27969bc68fde89cb1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteMouseCursorUtility.cs: 684f600f1129c3cb4df290f4bc53b930 -> 
+  custom:scripting/monoscript/fileName/GridPaintingToolbar.cs: 71eec3aa936c54c332bdeff43f265da8 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTile.cs: 06dd7fca2700fb4aaa03a7cd13f58833 -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTileEditor.cs: 4cf007e646aa016389fb16663382c73c -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridSelectionTool.cs: e3b447b578d18e550e3fd09eb4616407 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsDropdownMenu.cs: 4c73999c1bc87ae86dc4336104c225a9 -> 
+  custom:scripting/monoscript/fileName/GridPaintTargetsDropdown.cs: 1a02fee05143bec519533f49a8d1bebc -> 
+  custom:scripting/monoscript/fileName/GroupBrush.cs: b4c96b6e07e535d84dea8fa33a1ee653 -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTileEditor.cs: f5f3e25e9690be1c73bbc0525b4d0b70 -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTile.cs: 27a3183bf22a5a9447c8b9239d8f3655 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16b3c3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.228 seconds
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.650 seconds
+Domain Reload Profiling: 878ms
+	BeginReloadAssembly (74ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (21ms)
+	RebuildCommonClasses (20ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (11ms)
+	LoadAllAssembliesAndSetupDomain (116ms)
+		LoadAssemblies (138ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (9ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (651ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (218ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (33ms)
+			ProcessInitializeOnLoadAttributes (166ms)
+			ProcessInitializeOnLoadMethodAttributes (13ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 1.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3189 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.6 KB). Loaded Objects now: 3893.
+Memory consumption went from 418.9 MB to 418.9 MB.
+Total: 2.269542 ms (FindLiveObjects: 0.128834 ms CreateObjectMapping: 0.040291 ms MarkObjects: 2.073875 ms  DeleteObjects: 0.026167 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/GridSelectionEditor.cs: b0830b2bf3f4ec3f6b4728180aba6475 -> 
+  custom:scripting/monoscript/fileName/GridSelectionMoveTool.cs: 045959d7a1acd1d565cd175dc65f7851 -> 
+  custom:scripting/monoscript/fileName/RuleTileEditor.cs: 79f13bbbfb485ee67c9a14570e36e085 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownMenu.cs: 83cccb1cc3875d5c0f94901c5a82ccab -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTileEditor.cs: 54ccbabc2015b49c6431a6b2023ec05b -> 
+  custom:scripting/monoscript/fileName/TilePaletteDragHandler.cs: 33cd7bc1b72f7f8ce9b6c5eb96821cb4 -> 
+  custom:scripting/monoscript/fileName/CreateTileFromPaletteAttribute.cs: 49ba01e4cbae8c43831d8f68d552a9ea -> 
+  custom:scripting/monoscript/fileName/EraseTool.cs: b2930b433d7a76d09c5103fd6fa9815b -> 
+  custom:scripting/monoscript/fileName/GridPaletteBrushes.cs: f682962b899ca3732c6892c2e8583713 -> 
+  custom:scripting/monoscript/fileName/GameObjectCreation.cs: 51d13e20836ef3a10ad0ebed59bdbde4 -> 
+  custom:scripting/monoscript/fileName/BoxTool.cs: 99a18cad4f2fa1ae8d04c0625e0f7a94 -> 
+  custom:scripting/monoscript/fileName/GridBrushesDropdown.cs: c2b0d8f0bca0a3921a0149a2aaafe361 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/TilemapPrefabStageHelper.cs: 44f1fd774e027e09010c4cea43a89765 -> 
+  custom:scripting/monoscript/fileName/GridEditorUtility.cs: 79caab27569f1aaf1370483b77a0eed6 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesPopup.cs: b117489b8fd3a726762a29aaae057971 -> 
+  custom:scripting/monoscript/fileName/GridSelectionScaleTool.cs: ab389a9feae3d29ad2e9ca76435ec24d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorTool.cs: 4a91b937c12531cdbbbbc26ac425cbca -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras: 9722aa6e48a25d628be73e787a5a1bb9 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTileEditor.cs: db810e58b09c64e4891f0d0900bac7f9 -> 
+  custom:scripting/monoscript/fileName/TilePaletteOverlayUtility.cs: dc8cc580b44070af00f5c1a8a3e30146 -> 
+  custom:scripting/monoscript/fileName/GridPalettes.cs: 05ebfa19bce5556c38d8243821b95e4f -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesButton.cs: f63fefeba5246c46efe3054fe7e8ff1e -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTile.cs: 226477e0fda8299a797033f4381d7b8f -> 
+  custom:scripting/monoscript/fileName/SceneViewGridManager.cs: 95fee1927d423310ba7aac18e1743e68 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsProperties.cs: 3c61ac15c80e0acfb6b6f6a93b9c2f7c -> 
+  custom:scripting/monoscript/fileName/GridSelectionToolEditor.cs: cf616a74bb2f9276d21997cd9c2c33e2 -> 
+  custom:scripting/monoscript/fileName/TilemapFocusModeUtility.cs: 56848ecd8aaf6704fc633228e67df6a2 -> 
+  custom:scripting/monoscript/fileName/AnimatedTile.cs: b22e1be758aa3632efe2ad109fb97030 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsButton.cs: e78565d1f8fb504d1e27cd33aee954a6 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteHelper.cs: 3fa016a943052bc6aa2e17496be83d99 -> 
+  custom:scripting/monoscript/fileName/MenuItemOrder.cs: 0c2a8b61e17835b8f2084ff2294259d0 -> 
+  custom:scripting/monoscript/fileName/GridPalettesDropdown.cs: c3eee8db1c244df7a8abb5dd90d1cd39 -> 
+  custom:scripting/monoscript/fileName/BrushToolsAttribute.cs: 07c3ce23d7664c866d082c14955fc570 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardButton.cs: 12e65d1181e6c35cbf046b81b301a908 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/CustomRuleTileMenu.cs: 44fb1e06a86558bd44bae993c9daf6c0 -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolbarStrip.cs: 3b09bb7c9508f28705fc70ed3a82a917 -> 
+  custom:scripting/monoscript/fileName/GridBrushEditor.cs: afd10d6c25e4dee28d1dd55bdbbf1155 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowSplitView.cs: 3055e63c32343a994785f777fb8a04eb -> 
+  custom:scripting/monoscript/fileName/GridPaletteAddPopup.cs: 4117721b3ecbb12bd0cf4e10caeebdad -> 
+  custom:scripting/monoscript/fileName/TileDragAndDrop.cs: b35ab1f4232799adb75b33a260fe44f2 -> 
+  custom:scripting/monoscript/fileName/TileUtility.cs: f1465daed90b124a361d1b7354e9b99a -> 
+  custom:scripting/monoscript/fileName/PopulateRuleOverrideTileWizard.cs: e9938d8d26487451054d1df1a65708f7 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Editor: c63f35b4be2093bcf46770a8fbd6e1fe -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorElement.cs: a9e9b82fa2a5bb9267ca4498f3dd157f -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteClipboard.cs: 7cd44e8a0b877591749257e5bc06900b -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardElement.cs: 9f42d126d3040ca37a531f760f418560 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspector.cs: dabf99b6cb469f7e1a014ed2d8b57854 -> 
+  custom:scripting/monoscript/fileName/LineBrush.cs: 8db0af8b46a7fc8f13e7177ede2caeba -> 
+  custom:scripting/monoscript/fileName/GridSelection.cs: d0dea8ce5af83014aa5391e8d6adf81c -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/GridPaintSortingAttribute.cs: 682e3d84c0bb9409c8038dde6cc6eaaa -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesLabel.cs: 50d6652b738f203c7a782d3c9e81384d -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/FillTool.cs: 31d1f393d06835eb58df2ad8c9b0407d -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteOverlay.cs: 9e154d415d7ab024c8551aae194f4532 -> 
+  custom:scripting/monoscript/fileName/SceneViewTilemapFocusOverlay.cs: 409b7579c9eddabad834478b2a2731cf -> 
+  custom:scripting/monoscript/fileName/GridBrush.cs: 0271bb4294dfd9c52b85d2ef18c21adf -> 
+  custom:scripting/monoscript/fileName/RuleTile.cs: f5f493643c39cafead8f05df075b38cf -> 
+  custom:scripting/monoscript/fileName/GameObjectBrush.cs: 87ba7a109062396c16824845dba02c1a -> 
+  custom:scripting/monoscript/fileName/TilePaletteContextMenuHandler.cs: 11689ac7a1e231b785fe9ee59440e8df -> 
+  custom:scripting/monoscript/fileName/GridBrushEditorBase.cs: 8dc6b8dd5b5c3920622a5c826cdb9a3e -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferences.cs: d34ae7afe7e42324c1a8dc1ee5c53101 -> 
+  custom:scripting/monoscript/fileName/PaintableGrid.cs: c538d5369d23cf604300c6f8a077b5d0 -> 
+  custom:scripting/monoscript/fileName/DefaultAssetCreation.cs: c2d4009190ffa48d1a68c12ac7902a37 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras.Editor: 5ad91861b07fefd995e74ac55c89582d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolButton.cs: 452256babee1fc6246907201b775c9ca -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowPreferences.cs: 506574d5ebc55d1c3ac5809521be171c -> 
+  custom:scripting/monoscript/fileName/RotateTool.cs: a45c53b4cde318c91ea55e570037bddd -> 
+  custom:scripting/monoscript/fileName/GridSelectionTransformTool.cs: 0102964ac3ceb594b7800c6267f18cf7 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePalettePopup.cs: d8ea341556e28c44f8ce8bb6cb513430 -> 
+  custom:scripting/monoscript/fileName/PaintTool.cs: b088555e5c7bac451566d0ed1b585c0f -> 
+  custom:scripting/monoscript/fileName/GridPaintingState.cs: 5b65b03e1c11595f69bba16eea8cd664 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowActiveTargets.cs: a9f6bc687e35dc605b0de621410da416 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardPanelPopup.cs: 481659589c6d2cf5d49bb3c51e9e2785 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/GridPaletteUtility.cs: a64eece78a61bcc19caeb2b2a114ba40 -> 
+  custom:scripting/monoscript/fileName/PaintableSceneViewGrid.cs: 668faf831cc940b1ebbed80737459bca -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferencesAsset.cs: 42733c664a418dc96e6676ab6a569041 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropHoverData.cs: 7ec3eb6fae482fe5e6eca733189b11c1 -> 
+  custom:scripting/monoscript/fileName/PickingTool.cs: ad2b06cfab7c0bf6799fc818866d02f2 -> 
+  custom:scripting/monoscript/fileName/TilePaletteSaveUtility.cs: 99a98ca4128eb1b36fa13076970c6958 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/RandomBrush.cs: 060c140be746a8829fe39acd3b5de27b -> 
+  custom:scripting/monoscript/fileName/GridInformation.cs: 8abdd979e31f8615c6f0260032387547 -> 
+  custom:scripting/monoscript/fileName/GridSelectionRotationTool.cs: 034710c503c59a634a73a03fd24dd739 -> 
+  custom:scripting/monoscript/fileName/BoolFieldOverlayPopupWindow.cs: 25281e84d45ea134dccf87aa853796bf -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindow.cs: 1d497ecc185c46bb1043a6ede8ff1c0f -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTile.cs: 1fddf97303287ca0ab3797af3c741b42 -> 
+  custom:scripting/monoscript/fileName/TilePaletteElement.cs: 821f71de4b61685d39463a4a06a9c842 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropManager.cs: a1e23a7638297e1dda515dc0e84bf55a -> 
+  custom:scripting/monoscript/fileName/MoveTool.cs: 3e41e228f8fb535351f8fd508c5d7aa6 -> 
+  custom:scripting/monoscript/fileName/SelectTool.cs: 51558befbff43680f5a337c7469e3a7b -> 
+  custom:scripting/monoscript/fileName/TilePalettePrefabUtility.cs: 81c112f431eead6c17358b4dc7196dd1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePaletteDropdownMenu.cs: a47d79fd3aaf47be319da9214e3a9bb3 -> 
+  custom:scripting/monoscript/fileName/AnimatedTileEditor.cs: 41202be2ca5b787f20f8458252d021bc -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsPopup.cs: c19a5ac974961902d5fcecf1d440b17a -> 
+  custom:scripting/monoscript/fileName/GridPaletteEditor.cs: 9ca70426b6bdbb830263d2f1b512a658 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushPanelButton.cs: 2a4d4194710daaf7059f8f324842178b -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorPopup.cs: bae9f2c04afcee02fd74cc185afc7936 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownToggle.cs: c496745875bd2dedf400d11fa8d2a39c -> 
+  custom:scripting/monoscript/fileName/FlipTool.cs: 57a6cd18545afdc27969bc68fde89cb1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteMouseCursorUtility.cs: 684f600f1129c3cb4df290f4bc53b930 -> 
+  custom:scripting/monoscript/fileName/GridPaintingToolbar.cs: 71eec3aa936c54c332bdeff43f265da8 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTile.cs: 06dd7fca2700fb4aaa03a7cd13f58833 -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTileEditor.cs: 4cf007e646aa016389fb16663382c73c -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridSelectionTool.cs: e3b447b578d18e550e3fd09eb4616407 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsDropdownMenu.cs: 4c73999c1bc87ae86dc4336104c225a9 -> 
+  custom:scripting/monoscript/fileName/GridPaintTargetsDropdown.cs: 1a02fee05143bec519533f49a8d1bebc -> 
+  custom:scripting/monoscript/fileName/GroupBrush.cs: b4c96b6e07e535d84dea8fa33a1ee653 -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTileEditor.cs: f5f3e25e9690be1c73bbc0525b4d0b70 -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTile.cs: 27a3183bf22a5a9447c8b9239d8f3655 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16b3c3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.226 seconds
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.620 seconds
+Domain Reload Profiling: 847ms
+	BeginReloadAssembly (75ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (22ms)
+	RebuildCommonClasses (20ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (112ms)
+		LoadAssemblies (132ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (9ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (621ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (219ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (34ms)
+			ProcessInitializeOnLoadAttributes (166ms)
+			ProcessInitializeOnLoadMethodAttributes (13ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 1.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3189 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.7 KB). Loaded Objects now: 3896.
+Memory consumption went from 424.2 MB to 424.2 MB.
+Total: 2.252084 ms (FindLiveObjects: 0.125750 ms CreateObjectMapping: 0.048500 ms MarkObjects: 2.052209 ms  DeleteObjects: 0.025000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/GridSelectionEditor.cs: b0830b2bf3f4ec3f6b4728180aba6475 -> 
+  custom:scripting/monoscript/fileName/GridSelectionMoveTool.cs: 045959d7a1acd1d565cd175dc65f7851 -> 
+  custom:scripting/monoscript/fileName/RuleTileEditor.cs: 79f13bbbfb485ee67c9a14570e36e085 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownMenu.cs: 83cccb1cc3875d5c0f94901c5a82ccab -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTileEditor.cs: 54ccbabc2015b49c6431a6b2023ec05b -> 
+  custom:scripting/monoscript/fileName/TilePaletteDragHandler.cs: 33cd7bc1b72f7f8ce9b6c5eb96821cb4 -> 
+  custom:scripting/monoscript/fileName/CreateTileFromPaletteAttribute.cs: 49ba01e4cbae8c43831d8f68d552a9ea -> 
+  custom:scripting/monoscript/fileName/EraseTool.cs: b2930b433d7a76d09c5103fd6fa9815b -> 
+  custom:scripting/monoscript/fileName/GridPaletteBrushes.cs: f682962b899ca3732c6892c2e8583713 -> 
+  custom:scripting/monoscript/fileName/GameObjectCreation.cs: 51d13e20836ef3a10ad0ebed59bdbde4 -> 
+  custom:scripting/monoscript/fileName/BoxTool.cs: 99a18cad4f2fa1ae8d04c0625e0f7a94 -> 
+  custom:scripting/monoscript/fileName/GridBrushesDropdown.cs: c2b0d8f0bca0a3921a0149a2aaafe361 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/TilemapPrefabStageHelper.cs: 44f1fd774e027e09010c4cea43a89765 -> 
+  custom:scripting/monoscript/fileName/GridEditorUtility.cs: 79caab27569f1aaf1370483b77a0eed6 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesPopup.cs: b117489b8fd3a726762a29aaae057971 -> 
+  custom:scripting/monoscript/fileName/GridSelectionScaleTool.cs: ab389a9feae3d29ad2e9ca76435ec24d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorTool.cs: 4a91b937c12531cdbbbbc26ac425cbca -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras: 9722aa6e48a25d628be73e787a5a1bb9 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTileEditor.cs: db810e58b09c64e4891f0d0900bac7f9 -> 
+  custom:scripting/monoscript/fileName/TilePaletteOverlayUtility.cs: dc8cc580b44070af00f5c1a8a3e30146 -> 
+  custom:scripting/monoscript/fileName/GridPalettes.cs: 05ebfa19bce5556c38d8243821b95e4f -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesButton.cs: f63fefeba5246c46efe3054fe7e8ff1e -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTile.cs: 226477e0fda8299a797033f4381d7b8f -> 
+  custom:scripting/monoscript/fileName/SceneViewGridManager.cs: 95fee1927d423310ba7aac18e1743e68 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsProperties.cs: 3c61ac15c80e0acfb6b6f6a93b9c2f7c -> 
+  custom:scripting/monoscript/fileName/GridSelectionToolEditor.cs: cf616a74bb2f9276d21997cd9c2c33e2 -> 
+  custom:scripting/monoscript/fileName/TilemapFocusModeUtility.cs: 56848ecd8aaf6704fc633228e67df6a2 -> 
+  custom:scripting/monoscript/fileName/AnimatedTile.cs: b22e1be758aa3632efe2ad109fb97030 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsButton.cs: e78565d1f8fb504d1e27cd33aee954a6 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteHelper.cs: 3fa016a943052bc6aa2e17496be83d99 -> 
+  custom:scripting/monoscript/fileName/MenuItemOrder.cs: 0c2a8b61e17835b8f2084ff2294259d0 -> 
+  custom:scripting/monoscript/fileName/GridPalettesDropdown.cs: c3eee8db1c244df7a8abb5dd90d1cd39 -> 
+  custom:scripting/monoscript/fileName/BrushToolsAttribute.cs: 07c3ce23d7664c866d082c14955fc570 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardButton.cs: 12e65d1181e6c35cbf046b81b301a908 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/CustomRuleTileMenu.cs: 44fb1e06a86558bd44bae993c9daf6c0 -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolbarStrip.cs: 3b09bb7c9508f28705fc70ed3a82a917 -> 
+  custom:scripting/monoscript/fileName/GridBrushEditor.cs: afd10d6c25e4dee28d1dd55bdbbf1155 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowSplitView.cs: 3055e63c32343a994785f777fb8a04eb -> 
+  custom:scripting/monoscript/fileName/GridPaletteAddPopup.cs: 4117721b3ecbb12bd0cf4e10caeebdad -> 
+  custom:scripting/monoscript/fileName/TileDragAndDrop.cs: b35ab1f4232799adb75b33a260fe44f2 -> 
+  custom:scripting/monoscript/fileName/TileUtility.cs: f1465daed90b124a361d1b7354e9b99a -> 
+  custom:scripting/monoscript/fileName/PopulateRuleOverrideTileWizard.cs: e9938d8d26487451054d1df1a65708f7 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Editor: c63f35b4be2093bcf46770a8fbd6e1fe -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorElement.cs: a9e9b82fa2a5bb9267ca4498f3dd157f -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteClipboard.cs: 7cd44e8a0b877591749257e5bc06900b -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardElement.cs: 9f42d126d3040ca37a531f760f418560 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspector.cs: dabf99b6cb469f7e1a014ed2d8b57854 -> 
+  custom:scripting/monoscript/fileName/LineBrush.cs: 8db0af8b46a7fc8f13e7177ede2caeba -> 
+  custom:scripting/monoscript/fileName/GridSelection.cs: d0dea8ce5af83014aa5391e8d6adf81c -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/GridPaintSortingAttribute.cs: 682e3d84c0bb9409c8038dde6cc6eaaa -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesLabel.cs: 50d6652b738f203c7a782d3c9e81384d -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/FillTool.cs: 31d1f393d06835eb58df2ad8c9b0407d -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteOverlay.cs: 9e154d415d7ab024c8551aae194f4532 -> 
+  custom:scripting/monoscript/fileName/SceneViewTilemapFocusOverlay.cs: 409b7579c9eddabad834478b2a2731cf -> 
+  custom:scripting/monoscript/fileName/GridBrush.cs: 0271bb4294dfd9c52b85d2ef18c21adf -> 
+  custom:scripting/monoscript/fileName/RuleTile.cs: f5f493643c39cafead8f05df075b38cf -> 
+  custom:scripting/monoscript/fileName/GameObjectBrush.cs: 87ba7a109062396c16824845dba02c1a -> 
+  custom:scripting/monoscript/fileName/TilePaletteContextMenuHandler.cs: 11689ac7a1e231b785fe9ee59440e8df -> 
+  custom:scripting/monoscript/fileName/GridBrushEditorBase.cs: 8dc6b8dd5b5c3920622a5c826cdb9a3e -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferences.cs: d34ae7afe7e42324c1a8dc1ee5c53101 -> 
+  custom:scripting/monoscript/fileName/PaintableGrid.cs: c538d5369d23cf604300c6f8a077b5d0 -> 
+  custom:scripting/monoscript/fileName/DefaultAssetCreation.cs: c2d4009190ffa48d1a68c12ac7902a37 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras.Editor: 5ad91861b07fefd995e74ac55c89582d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolButton.cs: 452256babee1fc6246907201b775c9ca -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowPreferences.cs: 506574d5ebc55d1c3ac5809521be171c -> 
+  custom:scripting/monoscript/fileName/RotateTool.cs: a45c53b4cde318c91ea55e570037bddd -> 
+  custom:scripting/monoscript/fileName/GridSelectionTransformTool.cs: 0102964ac3ceb594b7800c6267f18cf7 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePalettePopup.cs: d8ea341556e28c44f8ce8bb6cb513430 -> 
+  custom:scripting/monoscript/fileName/PaintTool.cs: b088555e5c7bac451566d0ed1b585c0f -> 
+  custom:scripting/monoscript/fileName/GridPaintingState.cs: 5b65b03e1c11595f69bba16eea8cd664 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowActiveTargets.cs: a9f6bc687e35dc605b0de621410da416 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardPanelPopup.cs: 481659589c6d2cf5d49bb3c51e9e2785 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/GridPaletteUtility.cs: a64eece78a61bcc19caeb2b2a114ba40 -> 
+  custom:scripting/monoscript/fileName/PaintableSceneViewGrid.cs: 668faf831cc940b1ebbed80737459bca -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferencesAsset.cs: 42733c664a418dc96e6676ab6a569041 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropHoverData.cs: 7ec3eb6fae482fe5e6eca733189b11c1 -> 
+  custom:scripting/monoscript/fileName/PickingTool.cs: ad2b06cfab7c0bf6799fc818866d02f2 -> 
+  custom:scripting/monoscript/fileName/TilePaletteSaveUtility.cs: 99a98ca4128eb1b36fa13076970c6958 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/RandomBrush.cs: 060c140be746a8829fe39acd3b5de27b -> 
+  custom:scripting/monoscript/fileName/GridInformation.cs: 8abdd979e31f8615c6f0260032387547 -> 
+  custom:scripting/monoscript/fileName/GridSelectionRotationTool.cs: 034710c503c59a634a73a03fd24dd739 -> 
+  custom:scripting/monoscript/fileName/BoolFieldOverlayPopupWindow.cs: 25281e84d45ea134dccf87aa853796bf -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindow.cs: 1d497ecc185c46bb1043a6ede8ff1c0f -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTile.cs: 1fddf97303287ca0ab3797af3c741b42 -> 
+  custom:scripting/monoscript/fileName/TilePaletteElement.cs: 821f71de4b61685d39463a4a06a9c842 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropManager.cs: a1e23a7638297e1dda515dc0e84bf55a -> 
+  custom:scripting/monoscript/fileName/MoveTool.cs: 3e41e228f8fb535351f8fd508c5d7aa6 -> 
+  custom:scripting/monoscript/fileName/SelectTool.cs: 51558befbff43680f5a337c7469e3a7b -> 
+  custom:scripting/monoscript/fileName/TilePalettePrefabUtility.cs: 81c112f431eead6c17358b4dc7196dd1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePaletteDropdownMenu.cs: a47d79fd3aaf47be319da9214e3a9bb3 -> 
+  custom:scripting/monoscript/fileName/AnimatedTileEditor.cs: 41202be2ca5b787f20f8458252d021bc -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsPopup.cs: c19a5ac974961902d5fcecf1d440b17a -> 
+  custom:scripting/monoscript/fileName/GridPaletteEditor.cs: 9ca70426b6bdbb830263d2f1b512a658 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushPanelButton.cs: 2a4d4194710daaf7059f8f324842178b -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorPopup.cs: bae9f2c04afcee02fd74cc185afc7936 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownToggle.cs: c496745875bd2dedf400d11fa8d2a39c -> 
+  custom:scripting/monoscript/fileName/FlipTool.cs: 57a6cd18545afdc27969bc68fde89cb1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteMouseCursorUtility.cs: 684f600f1129c3cb4df290f4bc53b930 -> 
+  custom:scripting/monoscript/fileName/GridPaintingToolbar.cs: 71eec3aa936c54c332bdeff43f265da8 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTile.cs: 06dd7fca2700fb4aaa03a7cd13f58833 -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTileEditor.cs: 4cf007e646aa016389fb16663382c73c -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridSelectionTool.cs: e3b447b578d18e550e3fd09eb4616407 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsDropdownMenu.cs: 4c73999c1bc87ae86dc4336104c225a9 -> 
+  custom:scripting/monoscript/fileName/GridPaintTargetsDropdown.cs: 1a02fee05143bec519533f49a8d1bebc -> 
+  custom:scripting/monoscript/fileName/GroupBrush.cs: b4c96b6e07e535d84dea8fa33a1ee653 -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTileEditor.cs: f5f3e25e9690be1c73bbc0525b4d0b70 -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTile.cs: 27a3183bf22a5a9447c8b9239d8f3655 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16b3c3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.303 seconds
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.633 seconds
+Domain Reload Profiling: 936ms
+	BeginReloadAssembly (90ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (31ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (162ms)
+		LoadAssemblies (171ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (23ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (7ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (633ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (197ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (32ms)
+			ProcessInitializeOnLoadAttributes (147ms)
+			ProcessInitializeOnLoadMethodAttributes (12ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 1.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3190 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.6 KB). Loaded Objects now: 3900.
+Memory consumption went from 429.5 MB to 429.5 MB.
+Total: 2.243667 ms (FindLiveObjects: 0.123625 ms CreateObjectMapping: 0.052125 ms MarkObjects: 2.035833 ms  DeleteObjects: 0.031542 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/GridSelectionEditor.cs: b0830b2bf3f4ec3f6b4728180aba6475 -> 
+  custom:scripting/monoscript/fileName/GridSelectionMoveTool.cs: 045959d7a1acd1d565cd175dc65f7851 -> 
+  custom:scripting/monoscript/fileName/RuleTileEditor.cs: 79f13bbbfb485ee67c9a14570e36e085 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownMenu.cs: 83cccb1cc3875d5c0f94901c5a82ccab -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTileEditor.cs: 54ccbabc2015b49c6431a6b2023ec05b -> 
+  custom:scripting/monoscript/fileName/TilePaletteDragHandler.cs: 33cd7bc1b72f7f8ce9b6c5eb96821cb4 -> 
+  custom:scripting/monoscript/fileName/CreateTileFromPaletteAttribute.cs: 49ba01e4cbae8c43831d8f68d552a9ea -> 
+  custom:scripting/monoscript/fileName/EraseTool.cs: b2930b433d7a76d09c5103fd6fa9815b -> 
+  custom:scripting/monoscript/fileName/GridPaletteBrushes.cs: f682962b899ca3732c6892c2e8583713 -> 
+  custom:scripting/monoscript/fileName/GameObjectCreation.cs: 51d13e20836ef3a10ad0ebed59bdbde4 -> 
+  custom:scripting/monoscript/fileName/BoxTool.cs: 99a18cad4f2fa1ae8d04c0625e0f7a94 -> 
+  custom:scripting/monoscript/fileName/GridBrushesDropdown.cs: c2b0d8f0bca0a3921a0149a2aaafe361 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/TilemapPrefabStageHelper.cs: 44f1fd774e027e09010c4cea43a89765 -> 
+  custom:scripting/monoscript/fileName/GridEditorUtility.cs: 79caab27569f1aaf1370483b77a0eed6 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesPopup.cs: b117489b8fd3a726762a29aaae057971 -> 
+  custom:scripting/monoscript/fileName/GridSelectionScaleTool.cs: ab389a9feae3d29ad2e9ca76435ec24d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorTool.cs: 4a91b937c12531cdbbbbc26ac425cbca -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras: 9722aa6e48a25d628be73e787a5a1bb9 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTileEditor.cs: db810e58b09c64e4891f0d0900bac7f9 -> 
+  custom:scripting/monoscript/fileName/TilePaletteOverlayUtility.cs: dc8cc580b44070af00f5c1a8a3e30146 -> 
+  custom:scripting/monoscript/fileName/GridPalettes.cs: 05ebfa19bce5556c38d8243821b95e4f -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesButton.cs: f63fefeba5246c46efe3054fe7e8ff1e -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTile.cs: 226477e0fda8299a797033f4381d7b8f -> 
+  custom:scripting/monoscript/fileName/SceneViewGridManager.cs: 95fee1927d423310ba7aac18e1743e68 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsProperties.cs: 3c61ac15c80e0acfb6b6f6a93b9c2f7c -> 
+  custom:scripting/monoscript/fileName/GridSelectionToolEditor.cs: cf616a74bb2f9276d21997cd9c2c33e2 -> 
+  custom:scripting/monoscript/fileName/TilemapFocusModeUtility.cs: 56848ecd8aaf6704fc633228e67df6a2 -> 
+  custom:scripting/monoscript/fileName/AnimatedTile.cs: b22e1be758aa3632efe2ad109fb97030 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsButton.cs: e78565d1f8fb504d1e27cd33aee954a6 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteHelper.cs: 3fa016a943052bc6aa2e17496be83d99 -> 
+  custom:scripting/monoscript/fileName/MenuItemOrder.cs: 0c2a8b61e17835b8f2084ff2294259d0 -> 
+  custom:scripting/monoscript/fileName/GridPalettesDropdown.cs: c3eee8db1c244df7a8abb5dd90d1cd39 -> 
+  custom:scripting/monoscript/fileName/BrushToolsAttribute.cs: 07c3ce23d7664c866d082c14955fc570 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardButton.cs: 12e65d1181e6c35cbf046b81b301a908 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/CustomRuleTileMenu.cs: 44fb1e06a86558bd44bae993c9daf6c0 -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolbarStrip.cs: 3b09bb7c9508f28705fc70ed3a82a917 -> 
+  custom:scripting/monoscript/fileName/GridBrushEditor.cs: afd10d6c25e4dee28d1dd55bdbbf1155 -> 
+  custom:scripting/monoscript/fileName/Conexión.cs: f011783205b59cea7b2065d0b7a1264d -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowSplitView.cs: 3055e63c32343a994785f777fb8a04eb -> 
+  custom:scripting/monoscript/fileName/GridPaletteAddPopup.cs: 4117721b3ecbb12bd0cf4e10caeebdad -> 
+  custom:scripting/monoscript/fileName/TileDragAndDrop.cs: b35ab1f4232799adb75b33a260fe44f2 -> 
+  custom:scripting/monoscript/fileName/TileUtility.cs: f1465daed90b124a361d1b7354e9b99a -> 
+  custom:scripting/monoscript/fileName/PopulateRuleOverrideTileWizard.cs: e9938d8d26487451054d1df1a65708f7 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Editor: c63f35b4be2093bcf46770a8fbd6e1fe -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorElement.cs: a9e9b82fa2a5bb9267ca4498f3dd157f -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteClipboard.cs: 7cd44e8a0b877591749257e5bc06900b -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardElement.cs: 9f42d126d3040ca37a531f760f418560 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspector.cs: dabf99b6cb469f7e1a014ed2d8b57854 -> 
+  custom:scripting/monoscript/fileName/LineBrush.cs: 8db0af8b46a7fc8f13e7177ede2caeba -> 
+  custom:scripting/monoscript/fileName/GridSelection.cs: d0dea8ce5af83014aa5391e8d6adf81c -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/GridPaintSortingAttribute.cs: 682e3d84c0bb9409c8038dde6cc6eaaa -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesLabel.cs: 50d6652b738f203c7a782d3c9e81384d -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/FillTool.cs: 31d1f393d06835eb58df2ad8c9b0407d -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteOverlay.cs: 9e154d415d7ab024c8551aae194f4532 -> 
+  custom:scripting/monoscript/fileName/SceneViewTilemapFocusOverlay.cs: 409b7579c9eddabad834478b2a2731cf -> 
+  custom:scripting/monoscript/fileName/GridBrush.cs: 0271bb4294dfd9c52b85d2ef18c21adf -> 
+  custom:scripting/monoscript/fileName/RuleTile.cs: f5f493643c39cafead8f05df075b38cf -> 
+  custom:scripting/monoscript/fileName/GameObjectBrush.cs: 87ba7a109062396c16824845dba02c1a -> 
+  custom:scripting/monoscript/fileName/TilePaletteContextMenuHandler.cs: 11689ac7a1e231b785fe9ee59440e8df -> 
+  custom:scripting/monoscript/fileName/GridBrushEditorBase.cs: 8dc6b8dd5b5c3920622a5c826cdb9a3e -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferences.cs: d34ae7afe7e42324c1a8dc1ee5c53101 -> 
+  custom:scripting/monoscript/fileName/PaintableGrid.cs: c538d5369d23cf604300c6f8a077b5d0 -> 
+  custom:scripting/monoscript/fileName/DefaultAssetCreation.cs: c2d4009190ffa48d1a68c12ac7902a37 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras.Editor: 5ad91861b07fefd995e74ac55c89582d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolButton.cs: 452256babee1fc6246907201b775c9ca -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowPreferences.cs: 506574d5ebc55d1c3ac5809521be171c -> 
+  custom:scripting/monoscript/fileName/RotateTool.cs: a45c53b4cde318c91ea55e570037bddd -> 
+  custom:scripting/monoscript/fileName/GridSelectionTransformTool.cs: 0102964ac3ceb594b7800c6267f18cf7 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePalettePopup.cs: d8ea341556e28c44f8ce8bb6cb513430 -> 
+  custom:scripting/monoscript/fileName/PaintTool.cs: b088555e5c7bac451566d0ed1b585c0f -> 
+  custom:scripting/monoscript/fileName/GridPaintingState.cs: 5b65b03e1c11595f69bba16eea8cd664 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowActiveTargets.cs: a9f6bc687e35dc605b0de621410da416 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardPanelPopup.cs: 481659589c6d2cf5d49bb3c51e9e2785 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/GridPaletteUtility.cs: a64eece78a61bcc19caeb2b2a114ba40 -> 
+  custom:scripting/monoscript/fileName/PaintableSceneViewGrid.cs: 668faf831cc940b1ebbed80737459bca -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferencesAsset.cs: 42733c664a418dc96e6676ab6a569041 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropHoverData.cs: 7ec3eb6fae482fe5e6eca733189b11c1 -> 
+  custom:scripting/monoscript/fileName/PickingTool.cs: ad2b06cfab7c0bf6799fc818866d02f2 -> 
+  custom:scripting/monoscript/fileName/TilePaletteSaveUtility.cs: 99a98ca4128eb1b36fa13076970c6958 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/RandomBrush.cs: 060c140be746a8829fe39acd3b5de27b -> 
+  custom:scripting/monoscript/fileName/GridInformation.cs: 8abdd979e31f8615c6f0260032387547 -> 
+  custom:scripting/monoscript/fileName/GridSelectionRotationTool.cs: 034710c503c59a634a73a03fd24dd739 -> 
+  custom:scripting/monoscript/fileName/BoolFieldOverlayPopupWindow.cs: 25281e84d45ea134dccf87aa853796bf -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindow.cs: 1d497ecc185c46bb1043a6ede8ff1c0f -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTile.cs: 1fddf97303287ca0ab3797af3c741b42 -> 
+  custom:scripting/monoscript/fileName/TilePaletteElement.cs: 821f71de4b61685d39463a4a06a9c842 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropManager.cs: a1e23a7638297e1dda515dc0e84bf55a -> 
+  custom:scripting/monoscript/fileName/MoveTool.cs: 3e41e228f8fb535351f8fd508c5d7aa6 -> 
+  custom:scripting/monoscript/fileName/SelectTool.cs: 51558befbff43680f5a337c7469e3a7b -> 
+  custom:scripting/monoscript/fileName/TilePalettePrefabUtility.cs: 81c112f431eead6c17358b4dc7196dd1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePaletteDropdownMenu.cs: a47d79fd3aaf47be319da9214e3a9bb3 -> 
+  custom:scripting/monoscript/fileName/AnimatedTileEditor.cs: 41202be2ca5b787f20f8458252d021bc -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsPopup.cs: c19a5ac974961902d5fcecf1d440b17a -> 
+  custom:scripting/monoscript/fileName/GridPaletteEditor.cs: 9ca70426b6bdbb830263d2f1b512a658 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushPanelButton.cs: 2a4d4194710daaf7059f8f324842178b -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorPopup.cs: bae9f2c04afcee02fd74cc185afc7936 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownToggle.cs: c496745875bd2dedf400d11fa8d2a39c -> 
+  custom:scripting/monoscript/fileName/FlipTool.cs: 57a6cd18545afdc27969bc68fde89cb1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteMouseCursorUtility.cs: 684f600f1129c3cb4df290f4bc53b930 -> 
+  custom:scripting/monoscript/fileName/GridPaintingToolbar.cs: 71eec3aa936c54c332bdeff43f265da8 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTile.cs: 06dd7fca2700fb4aaa03a7cd13f58833 -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTileEditor.cs: 4cf007e646aa016389fb16663382c73c -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridSelectionTool.cs: e3b447b578d18e550e3fd09eb4616407 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsDropdownMenu.cs: 4c73999c1bc87ae86dc4336104c225a9 -> 
+  custom:scripting/monoscript/fileName/GridPaintTargetsDropdown.cs: 1a02fee05143bec519533f49a8d1bebc -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 5aedcda0058c85c6a4c003c8200ad054 -> 
+  custom:scripting/monoscript/fileName/GroupBrush.cs: b4c96b6e07e535d84dea8fa33a1ee653 -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTileEditor.cs: f5f3e25e9690be1c73bbc0525b4d0b70 -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTile.cs: 27a3183bf22a5a9447c8b9239d8f3655 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16b3c3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.301 seconds
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.604 seconds
+Domain Reload Profiling: 906ms
+	BeginReloadAssembly (89ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (20ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (161ms)
+		LoadAssemblies (177ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (18ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (5ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (604ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (195ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (28ms)
+			ProcessInitializeOnLoadAttributes (149ms)
+			ProcessInitializeOnLoadMethodAttributes (12ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 1.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3190 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.6 KB). Loaded Objects now: 3903.
+Memory consumption went from 434.8 MB to 434.8 MB.
+Total: 2.274250 ms (FindLiveObjects: 0.140333 ms CreateObjectMapping: 0.044084 ms MarkObjects: 2.058459 ms  DeleteObjects: 0.031083 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/GridSelectionEditor.cs: b0830b2bf3f4ec3f6b4728180aba6475 -> 
+  custom:scripting/monoscript/fileName/GridSelectionMoveTool.cs: 045959d7a1acd1d565cd175dc65f7851 -> 
+  custom:scripting/monoscript/fileName/RuleTileEditor.cs: 79f13bbbfb485ee67c9a14570e36e085 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownMenu.cs: 83cccb1cc3875d5c0f94901c5a82ccab -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTileEditor.cs: 54ccbabc2015b49c6431a6b2023ec05b -> 
+  custom:scripting/monoscript/fileName/TilePaletteDragHandler.cs: 33cd7bc1b72f7f8ce9b6c5eb96821cb4 -> 
+  custom:scripting/monoscript/fileName/CreateTileFromPaletteAttribute.cs: 49ba01e4cbae8c43831d8f68d552a9ea -> 
+  custom:scripting/monoscript/fileName/EraseTool.cs: b2930b433d7a76d09c5103fd6fa9815b -> 
+  custom:scripting/monoscript/fileName/GridPaletteBrushes.cs: f682962b899ca3732c6892c2e8583713 -> 
+  custom:scripting/monoscript/fileName/GameObjectCreation.cs: 51d13e20836ef3a10ad0ebed59bdbde4 -> 
+  custom:scripting/monoscript/fileName/BoxTool.cs: 99a18cad4f2fa1ae8d04c0625e0f7a94 -> 
+  custom:scripting/monoscript/fileName/GridBrushesDropdown.cs: c2b0d8f0bca0a3921a0149a2aaafe361 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/TilemapPrefabStageHelper.cs: 44f1fd774e027e09010c4cea43a89765 -> 
+  custom:scripting/monoscript/fileName/GridEditorUtility.cs: 79caab27569f1aaf1370483b77a0eed6 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesPopup.cs: b117489b8fd3a726762a29aaae057971 -> 
+  custom:scripting/monoscript/fileName/GridSelectionScaleTool.cs: ab389a9feae3d29ad2e9ca76435ec24d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorTool.cs: 4a91b937c12531cdbbbbc26ac425cbca -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras: 9722aa6e48a25d628be73e787a5a1bb9 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTileEditor.cs: db810e58b09c64e4891f0d0900bac7f9 -> 
+  custom:scripting/monoscript/fileName/TilePaletteOverlayUtility.cs: dc8cc580b44070af00f5c1a8a3e30146 -> 
+  custom:scripting/monoscript/fileName/GridPalettes.cs: 05ebfa19bce5556c38d8243821b95e4f -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesButton.cs: f63fefeba5246c46efe3054fe7e8ff1e -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTile.cs: 226477e0fda8299a797033f4381d7b8f -> 
+  custom:scripting/monoscript/fileName/SceneViewGridManager.cs: 95fee1927d423310ba7aac18e1743e68 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsProperties.cs: 3c61ac15c80e0acfb6b6f6a93b9c2f7c -> 
+  custom:scripting/monoscript/fileName/GridSelectionToolEditor.cs: cf616a74bb2f9276d21997cd9c2c33e2 -> 
+  custom:scripting/monoscript/fileName/TilemapFocusModeUtility.cs: 56848ecd8aaf6704fc633228e67df6a2 -> 
+  custom:scripting/monoscript/fileName/AnimatedTile.cs: b22e1be758aa3632efe2ad109fb97030 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsButton.cs: e78565d1f8fb504d1e27cd33aee954a6 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteHelper.cs: 3fa016a943052bc6aa2e17496be83d99 -> 
+  custom:scripting/monoscript/fileName/MenuItemOrder.cs: 0c2a8b61e17835b8f2084ff2294259d0 -> 
+  custom:scripting/monoscript/fileName/GridPalettesDropdown.cs: c3eee8db1c244df7a8abb5dd90d1cd39 -> 
+  custom:scripting/monoscript/fileName/BrushToolsAttribute.cs: 07c3ce23d7664c866d082c14955fc570 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardButton.cs: 12e65d1181e6c35cbf046b81b301a908 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/CustomRuleTileMenu.cs: 44fb1e06a86558bd44bae993c9daf6c0 -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolbarStrip.cs: 3b09bb7c9508f28705fc70ed3a82a917 -> 
+  custom:scripting/monoscript/fileName/GridBrushEditor.cs: afd10d6c25e4dee28d1dd55bdbbf1155 -> 
+  custom:scripting/monoscript/fileName/Conexión.cs: bffb29db97f93e6321930603a72f21a7 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowSplitView.cs: 3055e63c32343a994785f777fb8a04eb -> 
+  custom:scripting/monoscript/fileName/GridPaletteAddPopup.cs: 4117721b3ecbb12bd0cf4e10caeebdad -> 
+  custom:scripting/monoscript/fileName/TileDragAndDrop.cs: b35ab1f4232799adb75b33a260fe44f2 -> 
+  custom:scripting/monoscript/fileName/TileUtility.cs: f1465daed90b124a361d1b7354e9b99a -> 
+  custom:scripting/monoscript/fileName/PopulateRuleOverrideTileWizard.cs: e9938d8d26487451054d1df1a65708f7 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Editor: c63f35b4be2093bcf46770a8fbd6e1fe -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorElement.cs: a9e9b82fa2a5bb9267ca4498f3dd157f -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteClipboard.cs: 7cd44e8a0b877591749257e5bc06900b -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardElement.cs: 9f42d126d3040ca37a531f760f418560 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspector.cs: dabf99b6cb469f7e1a014ed2d8b57854 -> 
+  custom:scripting/monoscript/fileName/LineBrush.cs: 8db0af8b46a7fc8f13e7177ede2caeba -> 
+  custom:scripting/monoscript/fileName/GridSelection.cs: d0dea8ce5af83014aa5391e8d6adf81c -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/GridPaintSortingAttribute.cs: 682e3d84c0bb9409c8038dde6cc6eaaa -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesLabel.cs: 50d6652b738f203c7a782d3c9e81384d -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/FillTool.cs: 31d1f393d06835eb58df2ad8c9b0407d -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteOverlay.cs: 9e154d415d7ab024c8551aae194f4532 -> 
+  custom:scripting/monoscript/fileName/SceneViewTilemapFocusOverlay.cs: 409b7579c9eddabad834478b2a2731cf -> 
+  custom:scripting/monoscript/fileName/GridBrush.cs: 0271bb4294dfd9c52b85d2ef18c21adf -> 
+  custom:scripting/monoscript/fileName/RuleTile.cs: f5f493643c39cafead8f05df075b38cf -> 
+  custom:scripting/monoscript/fileName/GameObjectBrush.cs: 87ba7a109062396c16824845dba02c1a -> 
+  custom:scripting/monoscript/fileName/TilePaletteContextMenuHandler.cs: 11689ac7a1e231b785fe9ee59440e8df -> 
+  custom:scripting/monoscript/fileName/GridBrushEditorBase.cs: 8dc6b8dd5b5c3920622a5c826cdb9a3e -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferences.cs: d34ae7afe7e42324c1a8dc1ee5c53101 -> 
+  custom:scripting/monoscript/fileName/PaintableGrid.cs: c538d5369d23cf604300c6f8a077b5d0 -> 
+  custom:scripting/monoscript/fileName/DefaultAssetCreation.cs: c2d4009190ffa48d1a68c12ac7902a37 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras.Editor: 5ad91861b07fefd995e74ac55c89582d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolButton.cs: 452256babee1fc6246907201b775c9ca -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowPreferences.cs: 506574d5ebc55d1c3ac5809521be171c -> 
+  custom:scripting/monoscript/fileName/RotateTool.cs: a45c53b4cde318c91ea55e570037bddd -> 
+  custom:scripting/monoscript/fileName/GridSelectionTransformTool.cs: 0102964ac3ceb594b7800c6267f18cf7 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePalettePopup.cs: d8ea341556e28c44f8ce8bb6cb513430 -> 
+  custom:scripting/monoscript/fileName/PaintTool.cs: b088555e5c7bac451566d0ed1b585c0f -> 
+  custom:scripting/monoscript/fileName/GridPaintingState.cs: 5b65b03e1c11595f69bba16eea8cd664 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowActiveTargets.cs: a9f6bc687e35dc605b0de621410da416 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardPanelPopup.cs: 481659589c6d2cf5d49bb3c51e9e2785 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/GridPaletteUtility.cs: a64eece78a61bcc19caeb2b2a114ba40 -> 
+  custom:scripting/monoscript/fileName/PaintableSceneViewGrid.cs: 668faf831cc940b1ebbed80737459bca -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferencesAsset.cs: 42733c664a418dc96e6676ab6a569041 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropHoverData.cs: 7ec3eb6fae482fe5e6eca733189b11c1 -> 
+  custom:scripting/monoscript/fileName/PickingTool.cs: ad2b06cfab7c0bf6799fc818866d02f2 -> 
+  custom:scripting/monoscript/fileName/TilePaletteSaveUtility.cs: 99a98ca4128eb1b36fa13076970c6958 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/RandomBrush.cs: 060c140be746a8829fe39acd3b5de27b -> 
+  custom:scripting/monoscript/fileName/GridInformation.cs: 8abdd979e31f8615c6f0260032387547 -> 
+  custom:scripting/monoscript/fileName/GridSelectionRotationTool.cs: 034710c503c59a634a73a03fd24dd739 -> 
+  custom:scripting/monoscript/fileName/BoolFieldOverlayPopupWindow.cs: 25281e84d45ea134dccf87aa853796bf -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindow.cs: 1d497ecc185c46bb1043a6ede8ff1c0f -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTile.cs: 1fddf97303287ca0ab3797af3c741b42 -> 
+  custom:scripting/monoscript/fileName/TilePaletteElement.cs: 821f71de4b61685d39463a4a06a9c842 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropManager.cs: a1e23a7638297e1dda515dc0e84bf55a -> 
+  custom:scripting/monoscript/fileName/MoveTool.cs: 3e41e228f8fb535351f8fd508c5d7aa6 -> 
+  custom:scripting/monoscript/fileName/SelectTool.cs: 51558befbff43680f5a337c7469e3a7b -> 
+  custom:scripting/monoscript/fileName/TilePalettePrefabUtility.cs: 81c112f431eead6c17358b4dc7196dd1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePaletteDropdownMenu.cs: a47d79fd3aaf47be319da9214e3a9bb3 -> 
+  custom:scripting/monoscript/fileName/AnimatedTileEditor.cs: 41202be2ca5b787f20f8458252d021bc -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsPopup.cs: c19a5ac974961902d5fcecf1d440b17a -> 
+  custom:scripting/monoscript/fileName/GridPaletteEditor.cs: 9ca70426b6bdbb830263d2f1b512a658 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushPanelButton.cs: 2a4d4194710daaf7059f8f324842178b -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorPopup.cs: bae9f2c04afcee02fd74cc185afc7936 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownToggle.cs: c496745875bd2dedf400d11fa8d2a39c -> 
+  custom:scripting/monoscript/fileName/FlipTool.cs: 57a6cd18545afdc27969bc68fde89cb1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteMouseCursorUtility.cs: 684f600f1129c3cb4df290f4bc53b930 -> 
+  custom:scripting/monoscript/fileName/GridPaintingToolbar.cs: 71eec3aa936c54c332bdeff43f265da8 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTile.cs: 06dd7fca2700fb4aaa03a7cd13f58833 -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTileEditor.cs: 4cf007e646aa016389fb16663382c73c -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridSelectionTool.cs: e3b447b578d18e550e3fd09eb4616407 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsDropdownMenu.cs: 4c73999c1bc87ae86dc4336104c225a9 -> 
+  custom:scripting/monoscript/fileName/GridPaintTargetsDropdown.cs: 1a02fee05143bec519533f49a8d1bebc -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 44dc445c1371fab521666fe9ab2c7de4 -> 
+  custom:scripting/monoscript/fileName/GroupBrush.cs: b4c96b6e07e535d84dea8fa33a1ee653 -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTileEditor.cs: f5f3e25e9690be1c73bbc0525b4d0b70 -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTile.cs: 27a3183bf22a5a9447c8b9239d8f3655 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 5454.965171 seconds.
+  path: Assets/Scripts/Conexión.cs
+  artifactKey: Guid(254bcd94bc1c04e5c862d72fba3033f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Conexión.cs using Guid(254bcd94bc1c04e5c862d72fba3033f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'ddb9ea62afd124772b68b2031842d109') in 0.001095 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16b3c3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.237 seconds
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.394 seconds
+Domain Reload Profiling: 631ms
+	BeginReloadAssembly (79ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (20ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (118ms)
+		LoadAssemblies (133ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (15ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (4ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (394ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (223ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (31ms)
+			ProcessInitializeOnLoadAttributes (171ms)
+			ProcessInitializeOnLoadMethodAttributes (14ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3189 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.6 KB). Loaded Objects now: 3906.
+Memory consumption went from 439.9 MB to 439.9 MB.
+Total: 2.487125 ms (FindLiveObjects: 0.151125 ms CreateObjectMapping: 0.046959 ms MarkObjects: 2.262292 ms  DeleteObjects: 0.026292 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/GridSelectionEditor.cs: b0830b2bf3f4ec3f6b4728180aba6475 -> 
+  custom:scripting/monoscript/fileName/GridSelectionMoveTool.cs: 045959d7a1acd1d565cd175dc65f7851 -> 
+  custom:scripting/monoscript/fileName/RuleTileEditor.cs: 79f13bbbfb485ee67c9a14570e36e085 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownMenu.cs: 83cccb1cc3875d5c0f94901c5a82ccab -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTileEditor.cs: 54ccbabc2015b49c6431a6b2023ec05b -> 
+  custom:scripting/monoscript/fileName/TilePaletteDragHandler.cs: 33cd7bc1b72f7f8ce9b6c5eb96821cb4 -> 
+  custom:scripting/monoscript/fileName/CreateTileFromPaletteAttribute.cs: 49ba01e4cbae8c43831d8f68d552a9ea -> 
+  custom:scripting/monoscript/fileName/EraseTool.cs: b2930b433d7a76d09c5103fd6fa9815b -> 
+  custom:scripting/monoscript/fileName/GridPaletteBrushes.cs: f682962b899ca3732c6892c2e8583713 -> 
+  custom:scripting/monoscript/fileName/GameObjectCreation.cs: 51d13e20836ef3a10ad0ebed59bdbde4 -> 
+  custom:scripting/monoscript/fileName/BoxTool.cs: 99a18cad4f2fa1ae8d04c0625e0f7a94 -> 
+  custom:scripting/monoscript/fileName/GridBrushesDropdown.cs: c2b0d8f0bca0a3921a0149a2aaafe361 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/TilemapPrefabStageHelper.cs: 44f1fd774e027e09010c4cea43a89765 -> 
+  custom:scripting/monoscript/fileName/GridEditorUtility.cs: 79caab27569f1aaf1370483b77a0eed6 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesPopup.cs: b117489b8fd3a726762a29aaae057971 -> 
+  custom:scripting/monoscript/fileName/GridSelectionScaleTool.cs: ab389a9feae3d29ad2e9ca76435ec24d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorTool.cs: 4a91b937c12531cdbbbbc26ac425cbca -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras: 9722aa6e48a25d628be73e787a5a1bb9 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTileEditor.cs: db810e58b09c64e4891f0d0900bac7f9 -> 
+  custom:scripting/monoscript/fileName/TilePaletteOverlayUtility.cs: dc8cc580b44070af00f5c1a8a3e30146 -> 
+  custom:scripting/monoscript/fileName/GridPalettes.cs: 05ebfa19bce5556c38d8243821b95e4f -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesButton.cs: f63fefeba5246c46efe3054fe7e8ff1e -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTile.cs: 226477e0fda8299a797033f4381d7b8f -> 
+  custom:scripting/monoscript/fileName/SceneViewGridManager.cs: 95fee1927d423310ba7aac18e1743e68 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsProperties.cs: 3c61ac15c80e0acfb6b6f6a93b9c2f7c -> 
+  custom:scripting/monoscript/fileName/GridSelectionToolEditor.cs: cf616a74bb2f9276d21997cd9c2c33e2 -> 
+  custom:scripting/monoscript/fileName/TilemapFocusModeUtility.cs: 56848ecd8aaf6704fc633228e67df6a2 -> 
+  custom:scripting/monoscript/fileName/AnimatedTile.cs: b22e1be758aa3632efe2ad109fb97030 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsButton.cs: e78565d1f8fb504d1e27cd33aee954a6 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteHelper.cs: 3fa016a943052bc6aa2e17496be83d99 -> 
+  custom:scripting/monoscript/fileName/MenuItemOrder.cs: 0c2a8b61e17835b8f2084ff2294259d0 -> 
+  custom:scripting/monoscript/fileName/GridPalettesDropdown.cs: c3eee8db1c244df7a8abb5dd90d1cd39 -> 
+  custom:scripting/monoscript/fileName/BrushToolsAttribute.cs: 07c3ce23d7664c866d082c14955fc570 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardButton.cs: 12e65d1181e6c35cbf046b81b301a908 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/CustomRuleTileMenu.cs: 44fb1e06a86558bd44bae993c9daf6c0 -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolbarStrip.cs: 3b09bb7c9508f28705fc70ed3a82a917 -> 
+  custom:scripting/monoscript/fileName/GridBrushEditor.cs: afd10d6c25e4dee28d1dd55bdbbf1155 -> 
+  custom:scripting/monoscript/fileName/Conexión.cs: bffb29db97f93e6321930603a72f21a7 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowSplitView.cs: 3055e63c32343a994785f777fb8a04eb -> 
+  custom:scripting/monoscript/fileName/GridPaletteAddPopup.cs: 4117721b3ecbb12bd0cf4e10caeebdad -> 
+  custom:scripting/monoscript/fileName/TileDragAndDrop.cs: b35ab1f4232799adb75b33a260fe44f2 -> 
+  custom:scripting/monoscript/fileName/TileUtility.cs: f1465daed90b124a361d1b7354e9b99a -> 
+  custom:scripting/monoscript/fileName/PopulateRuleOverrideTileWizard.cs: e9938d8d26487451054d1df1a65708f7 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Editor: c63f35b4be2093bcf46770a8fbd6e1fe -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorElement.cs: a9e9b82fa2a5bb9267ca4498f3dd157f -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteClipboard.cs: 7cd44e8a0b877591749257e5bc06900b -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardElement.cs: 9f42d126d3040ca37a531f760f418560 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspector.cs: dabf99b6cb469f7e1a014ed2d8b57854 -> 
+  custom:scripting/monoscript/fileName/LineBrush.cs: 8db0af8b46a7fc8f13e7177ede2caeba -> 
+  custom:scripting/monoscript/fileName/GridSelection.cs: d0dea8ce5af83014aa5391e8d6adf81c -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/GridPaintSortingAttribute.cs: 682e3d84c0bb9409c8038dde6cc6eaaa -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesLabel.cs: 50d6652b738f203c7a782d3c9e81384d -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/FillTool.cs: 31d1f393d06835eb58df2ad8c9b0407d -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteOverlay.cs: 9e154d415d7ab024c8551aae194f4532 -> 
+  custom:scripting/monoscript/fileName/SceneViewTilemapFocusOverlay.cs: 409b7579c9eddabad834478b2a2731cf -> 
+  custom:scripting/monoscript/fileName/GridBrush.cs: 0271bb4294dfd9c52b85d2ef18c21adf -> 
+  custom:scripting/monoscript/fileName/RuleTile.cs: f5f493643c39cafead8f05df075b38cf -> 
+  custom:scripting/monoscript/fileName/GameObjectBrush.cs: 87ba7a109062396c16824845dba02c1a -> 
+  custom:scripting/monoscript/fileName/TilePaletteContextMenuHandler.cs: 11689ac7a1e231b785fe9ee59440e8df -> 
+  custom:scripting/monoscript/fileName/GridBrushEditorBase.cs: 8dc6b8dd5b5c3920622a5c826cdb9a3e -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferences.cs: d34ae7afe7e42324c1a8dc1ee5c53101 -> 
+  custom:scripting/monoscript/fileName/PaintableGrid.cs: c538d5369d23cf604300c6f8a077b5d0 -> 
+  custom:scripting/monoscript/fileName/DefaultAssetCreation.cs: c2d4009190ffa48d1a68c12ac7902a37 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras.Editor: 5ad91861b07fefd995e74ac55c89582d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolButton.cs: 452256babee1fc6246907201b775c9ca -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowPreferences.cs: 506574d5ebc55d1c3ac5809521be171c -> 
+  custom:scripting/monoscript/fileName/RotateTool.cs: a45c53b4cde318c91ea55e570037bddd -> 
+  custom:scripting/monoscript/fileName/GridSelectionTransformTool.cs: 0102964ac3ceb594b7800c6267f18cf7 -> 
+  custom:scripting/monoscript/fileName/WebClient.cs: bffb29db97f93e6321930603a72f21a7 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePalettePopup.cs: d8ea341556e28c44f8ce8bb6cb513430 -> 
+  custom:scripting/monoscript/fileName/PaintTool.cs: b088555e5c7bac451566d0ed1b585c0f -> 
+  custom:scripting/monoscript/fileName/GridPaintingState.cs: 5b65b03e1c11595f69bba16eea8cd664 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowActiveTargets.cs: a9f6bc687e35dc605b0de621410da416 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardPanelPopup.cs: 481659589c6d2cf5d49bb3c51e9e2785 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/GridPaletteUtility.cs: a64eece78a61bcc19caeb2b2a114ba40 -> 
+  custom:scripting/monoscript/fileName/PaintableSceneViewGrid.cs: 668faf831cc940b1ebbed80737459bca -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferencesAsset.cs: 42733c664a418dc96e6676ab6a569041 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropHoverData.cs: 7ec3eb6fae482fe5e6eca733189b11c1 -> 
+  custom:scripting/monoscript/fileName/PickingTool.cs: ad2b06cfab7c0bf6799fc818866d02f2 -> 
+  custom:scripting/monoscript/fileName/TilePaletteSaveUtility.cs: 99a98ca4128eb1b36fa13076970c6958 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/RandomBrush.cs: 060c140be746a8829fe39acd3b5de27b -> 
+  custom:scripting/monoscript/fileName/GridInformation.cs: 8abdd979e31f8615c6f0260032387547 -> 
+  custom:scripting/monoscript/fileName/GridSelectionRotationTool.cs: 034710c503c59a634a73a03fd24dd739 -> 
+  custom:scripting/monoscript/fileName/BoolFieldOverlayPopupWindow.cs: 25281e84d45ea134dccf87aa853796bf -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindow.cs: 1d497ecc185c46bb1043a6ede8ff1c0f -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTile.cs: 1fddf97303287ca0ab3797af3c741b42 -> 
+  custom:scripting/monoscript/fileName/TilePaletteElement.cs: 821f71de4b61685d39463a4a06a9c842 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropManager.cs: a1e23a7638297e1dda515dc0e84bf55a -> 
+  custom:scripting/monoscript/fileName/MoveTool.cs: 3e41e228f8fb535351f8fd508c5d7aa6 -> 
+  custom:scripting/monoscript/fileName/SelectTool.cs: 51558befbff43680f5a337c7469e3a7b -> 
+  custom:scripting/monoscript/fileName/TilePalettePrefabUtility.cs: 81c112f431eead6c17358b4dc7196dd1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePaletteDropdownMenu.cs: a47d79fd3aaf47be319da9214e3a9bb3 -> 
+  custom:scripting/monoscript/fileName/AnimatedTileEditor.cs: 41202be2ca5b787f20f8458252d021bc -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsPopup.cs: c19a5ac974961902d5fcecf1d440b17a -> 
+  custom:scripting/monoscript/fileName/GridPaletteEditor.cs: 9ca70426b6bdbb830263d2f1b512a658 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushPanelButton.cs: 2a4d4194710daaf7059f8f324842178b -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorPopup.cs: bae9f2c04afcee02fd74cc185afc7936 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownToggle.cs: c496745875bd2dedf400d11fa8d2a39c -> 
+  custom:scripting/monoscript/fileName/FlipTool.cs: 57a6cd18545afdc27969bc68fde89cb1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteMouseCursorUtility.cs: 684f600f1129c3cb4df290f4bc53b930 -> 
+  custom:scripting/monoscript/fileName/GridPaintingToolbar.cs: 71eec3aa936c54c332bdeff43f265da8 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTile.cs: 06dd7fca2700fb4aaa03a7cd13f58833 -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTileEditor.cs: 4cf007e646aa016389fb16663382c73c -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridSelectionTool.cs: e3b447b578d18e550e3fd09eb4616407 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsDropdownMenu.cs: 4c73999c1bc87ae86dc4336104c225a9 -> 
+  custom:scripting/monoscript/fileName/GridPaintTargetsDropdown.cs: 1a02fee05143bec519533f49a8d1bebc -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 16929e3c4c7c5b3c84ca24dc01f352dd -> 
+  custom:scripting/monoscript/fileName/GroupBrush.cs: b4c96b6e07e535d84dea8fa33a1ee653 -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTileEditor.cs: f5f3e25e9690be1c73bbc0525b4d0b70 -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTile.cs: 27a3183bf22a5a9447c8b9239d8f3655 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16b3c3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.283 seconds
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.649 seconds
+Domain Reload Profiling: 932ms
+	BeginReloadAssembly (86ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (26ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (146ms)
+		LoadAssemblies (170ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (10ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (649ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (209ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (30ms)
+			ProcessInitializeOnLoadAttributes (160ms)
+			ProcessInitializeOnLoadMethodAttributes (14ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 1.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3190 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.6 KB). Loaded Objects now: 3909.
+Memory consumption went from 445.5 MB to 445.4 MB.
+Total: 2.310542 ms (FindLiveObjects: 0.124708 ms CreateObjectMapping: 0.043917 ms MarkObjects: 2.108250 ms  DeleteObjects: 0.033375 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/GridSelectionEditor.cs: b0830b2bf3f4ec3f6b4728180aba6475 -> 
+  custom:scripting/monoscript/fileName/GridSelectionMoveTool.cs: 045959d7a1acd1d565cd175dc65f7851 -> 
+  custom:scripting/monoscript/fileName/RuleTileEditor.cs: 79f13bbbfb485ee67c9a14570e36e085 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownMenu.cs: 83cccb1cc3875d5c0f94901c5a82ccab -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTileEditor.cs: 54ccbabc2015b49c6431a6b2023ec05b -> 
+  custom:scripting/monoscript/fileName/TilePaletteDragHandler.cs: 33cd7bc1b72f7f8ce9b6c5eb96821cb4 -> 
+  custom:scripting/monoscript/fileName/CreateTileFromPaletteAttribute.cs: 49ba01e4cbae8c43831d8f68d552a9ea -> 
+  custom:scripting/monoscript/fileName/EraseTool.cs: b2930b433d7a76d09c5103fd6fa9815b -> 
+  custom:scripting/monoscript/fileName/GridPaletteBrushes.cs: f682962b899ca3732c6892c2e8583713 -> 
+  custom:scripting/monoscript/fileName/GameObjectCreation.cs: 51d13e20836ef3a10ad0ebed59bdbde4 -> 
+  custom:scripting/monoscript/fileName/BoxTool.cs: 99a18cad4f2fa1ae8d04c0625e0f7a94 -> 
+  custom:scripting/monoscript/fileName/GridBrushesDropdown.cs: c2b0d8f0bca0a3921a0149a2aaafe361 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/TilemapPrefabStageHelper.cs: 44f1fd774e027e09010c4cea43a89765 -> 
+  custom:scripting/monoscript/fileName/GridEditorUtility.cs: 79caab27569f1aaf1370483b77a0eed6 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesPopup.cs: b117489b8fd3a726762a29aaae057971 -> 
+  custom:scripting/monoscript/fileName/GridSelectionScaleTool.cs: ab389a9feae3d29ad2e9ca76435ec24d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorTool.cs: 4a91b937c12531cdbbbbc26ac425cbca -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras: 9722aa6e48a25d628be73e787a5a1bb9 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTileEditor.cs: db810e58b09c64e4891f0d0900bac7f9 -> 
+  custom:scripting/monoscript/fileName/TilePaletteOverlayUtility.cs: dc8cc580b44070af00f5c1a8a3e30146 -> 
+  custom:scripting/monoscript/fileName/GridPalettes.cs: 05ebfa19bce5556c38d8243821b95e4f -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesButton.cs: f63fefeba5246c46efe3054fe7e8ff1e -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTile.cs: 226477e0fda8299a797033f4381d7b8f -> 
+  custom:scripting/monoscript/fileName/SceneViewGridManager.cs: 95fee1927d423310ba7aac18e1743e68 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsProperties.cs: 3c61ac15c80e0acfb6b6f6a93b9c2f7c -> 
+  custom:scripting/monoscript/fileName/GridSelectionToolEditor.cs: cf616a74bb2f9276d21997cd9c2c33e2 -> 
+  custom:scripting/monoscript/fileName/TilemapFocusModeUtility.cs: 56848ecd8aaf6704fc633228e67df6a2 -> 
+  custom:scripting/monoscript/fileName/AnimatedTile.cs: b22e1be758aa3632efe2ad109fb97030 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsButton.cs: e78565d1f8fb504d1e27cd33aee954a6 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteHelper.cs: 3fa016a943052bc6aa2e17496be83d99 -> 
+  custom:scripting/monoscript/fileName/MenuItemOrder.cs: 0c2a8b61e17835b8f2084ff2294259d0 -> 
+  custom:scripting/monoscript/fileName/GridPalettesDropdown.cs: c3eee8db1c244df7a8abb5dd90d1cd39 -> 
+  custom:scripting/monoscript/fileName/BrushToolsAttribute.cs: 07c3ce23d7664c866d082c14955fc570 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardButton.cs: 12e65d1181e6c35cbf046b81b301a908 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/CustomRuleTileMenu.cs: 44fb1e06a86558bd44bae993c9daf6c0 -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolbarStrip.cs: 3b09bb7c9508f28705fc70ed3a82a917 -> 
+  custom:scripting/monoscript/fileName/GridBrushEditor.cs: afd10d6c25e4dee28d1dd55bdbbf1155 -> 
+  custom:scripting/monoscript/fileName/Conexión.cs: bffb29db97f93e6321930603a72f21a7 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowSplitView.cs: 3055e63c32343a994785f777fb8a04eb -> 
+  custom:scripting/monoscript/fileName/GridPaletteAddPopup.cs: 4117721b3ecbb12bd0cf4e10caeebdad -> 
+  custom:scripting/monoscript/fileName/TileDragAndDrop.cs: b35ab1f4232799adb75b33a260fe44f2 -> 
+  custom:scripting/monoscript/fileName/TileUtility.cs: f1465daed90b124a361d1b7354e9b99a -> 
+  custom:scripting/monoscript/fileName/PopulateRuleOverrideTileWizard.cs: e9938d8d26487451054d1df1a65708f7 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Editor: c63f35b4be2093bcf46770a8fbd6e1fe -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorElement.cs: a9e9b82fa2a5bb9267ca4498f3dd157f -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteClipboard.cs: 7cd44e8a0b877591749257e5bc06900b -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardElement.cs: 9f42d126d3040ca37a531f760f418560 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspector.cs: dabf99b6cb469f7e1a014ed2d8b57854 -> 
+  custom:scripting/monoscript/fileName/LineBrush.cs: 8db0af8b46a7fc8f13e7177ede2caeba -> 
+  custom:scripting/monoscript/fileName/GridSelection.cs: d0dea8ce5af83014aa5391e8d6adf81c -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/GridPaintSortingAttribute.cs: 682e3d84c0bb9409c8038dde6cc6eaaa -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesLabel.cs: 50d6652b738f203c7a782d3c9e81384d -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/FillTool.cs: 31d1f393d06835eb58df2ad8c9b0407d -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/SceneViewOpenTilePaletteOverlay.cs: 9e154d415d7ab024c8551aae194f4532 -> 
+  custom:scripting/monoscript/fileName/SceneViewTilemapFocusOverlay.cs: 409b7579c9eddabad834478b2a2731cf -> 
+  custom:scripting/monoscript/fileName/GridBrush.cs: 0271bb4294dfd9c52b85d2ef18c21adf -> 
+  custom:scripting/monoscript/fileName/RuleTile.cs: f5f493643c39cafead8f05df075b38cf -> 
+  custom:scripting/monoscript/fileName/GameObjectBrush.cs: 87ba7a109062396c16824845dba02c1a -> 
+  custom:scripting/monoscript/fileName/TilePaletteContextMenuHandler.cs: 11689ac7a1e231b785fe9ee59440e8df -> 
+  custom:scripting/monoscript/fileName/GridBrushEditorBase.cs: 8dc6b8dd5b5c3920622a5c826cdb9a3e -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferences.cs: d34ae7afe7e42324c1a8dc1ee5c53101 -> 
+  custom:scripting/monoscript/fileName/PaintableGrid.cs: c538d5369d23cf604300c6f8a077b5d0 -> 
+  custom:scripting/monoscript/fileName/DefaultAssetCreation.cs: c2d4009190ffa48d1a68c12ac7902a37 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Tilemap.Extras.Editor: 5ad91861b07fefd995e74ac55c89582d -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolButton.cs: 452256babee1fc6246907201b775c9ca -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowPreferences.cs: 506574d5ebc55d1c3ac5809521be171c -> 
+  custom:scripting/monoscript/fileName/RotateTool.cs: a45c53b4cde318c91ea55e570037bddd -> 
+  custom:scripting/monoscript/fileName/GridSelectionTransformTool.cs: 0102964ac3ceb594b7800c6267f18cf7 -> 
+  custom:scripting/monoscript/fileName/WebClient.cs: bffb29db97f93e6321930603a72f21a7 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePalettePopup.cs: d8ea341556e28c44f8ce8bb6cb513430 -> 
+  custom:scripting/monoscript/fileName/PaintTool.cs: b088555e5c7bac451566d0ed1b585c0f -> 
+  custom:scripting/monoscript/fileName/GridPaintingState.cs: 5b65b03e1c11595f69bba16eea8cd664 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindowActiveTargets.cs: a9f6bc687e35dc605b0de621410da416 -> 
+  custom:scripting/monoscript/fileName/TilePaletteClipboardPanelPopup.cs: 481659589c6d2cf5d49bb3c51e9e2785 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/GridPaletteUtility.cs: a64eece78a61bcc19caeb2b2a114ba40 -> 
+  custom:scripting/monoscript/fileName/PaintableSceneViewGrid.cs: 668faf831cc940b1ebbed80737459bca -> 
+  custom:scripting/monoscript/fileName/TilemapEditorToolPreferencesAsset.cs: 42733c664a418dc96e6676ab6a569041 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropHoverData.cs: 7ec3eb6fae482fe5e6eca733189b11c1 -> 
+  custom:scripting/monoscript/fileName/PickingTool.cs: ad2b06cfab7c0bf6799fc818866d02f2 -> 
+  custom:scripting/monoscript/fileName/TilePaletteSaveUtility.cs: 99a98ca4128eb1b36fa13076970c6958 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/RandomBrush.cs: 060c140be746a8829fe39acd3b5de27b -> 
+  custom:scripting/monoscript/fileName/GridInformation.cs: 8abdd979e31f8615c6f0260032387547 -> 
+  custom:scripting/monoscript/fileName/GridSelectionRotationTool.cs: 034710c503c59a634a73a03fd24dd739 -> 
+  custom:scripting/monoscript/fileName/BoolFieldOverlayPopupWindow.cs: 25281e84d45ea134dccf87aa853796bf -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridPaintPaletteWindow.cs: 1d497ecc185c46bb1043a6ede8ff1c0f -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTile.cs: 1fddf97303287ca0ab3797af3c741b42 -> 
+  custom:scripting/monoscript/fileName/TilePaletteElement.cs: 821f71de4b61685d39463a4a06a9c842 -> 
+  custom:scripting/monoscript/fileName/TileDragAndDropManager.cs: a1e23a7638297e1dda515dc0e84bf55a -> 
+  custom:scripting/monoscript/fileName/MoveTool.cs: 3e41e228f8fb535351f8fd508c5d7aa6 -> 
+  custom:scripting/monoscript/fileName/SelectTool.cs: 51558befbff43680f5a337c7469e3a7b -> 
+  custom:scripting/monoscript/fileName/TilePalettePrefabUtility.cs: 81c112f431eead6c17358b4dc7196dd1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActivePaletteDropdownMenu.cs: a47d79fd3aaf47be319da9214e3a9bb3 -> 
+  custom:scripting/monoscript/fileName/AnimatedTileEditor.cs: 41202be2ca5b787f20f8458252d021bc -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsPopup.cs: c19a5ac974961902d5fcecf1d440b17a -> 
+  custom:scripting/monoscript/fileName/GridPaletteEditor.cs: 9ca70426b6bdbb830263d2f1b512a658 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushPanelButton.cs: 2a4d4194710daaf7059f8f324842178b -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushInspectorPopup.cs: bae9f2c04afcee02fd74cc185afc7936 -> 
+  custom:scripting/monoscript/fileName/TilePaletteBrushesDropdownToggle.cs: c496745875bd2dedf400d11fa8d2a39c -> 
+  custom:scripting/monoscript/fileName/FlipTool.cs: 57a6cd18545afdc27969bc68fde89cb1 -> 
+  custom:scripting/monoscript/fileName/TilePaletteMouseCursorUtility.cs: 684f600f1129c3cb4df290f4bc53b930 -> 
+  custom:scripting/monoscript/fileName/GridPaintingToolbar.cs: 71eec3aa936c54c332bdeff43f265da8 -> 
+  custom:scripting/monoscript/fileName/HexagonalRuleTile.cs: 06dd7fca2700fb4aaa03a7cd13f58833 -> 
+  custom:scripting/monoscript/fileName/IsometricRuleTileEditor.cs: 4cf007e646aa016389fb16663382c73c -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GridSelectionTool.cs: e3b447b578d18e550e3fd09eb4616407 -> 
+  custom:scripting/monoscript/fileName/TilePaletteActiveTargetsDropdownMenu.cs: 4c73999c1bc87ae86dc4336104c225a9 -> 
+  custom:scripting/monoscript/fileName/GridPaintTargetsDropdown.cs: 1a02fee05143bec519533f49a8d1bebc -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 16929e3c4c7c5b3c84ca24dc01f352dd -> 
+  custom:scripting/monoscript/fileName/GroupBrush.cs: b4c96b6e07e535d84dea8fa33a1ee653 -> 
+  custom:scripting/monoscript/fileName/AdvancedRuleOverrideTileEditor.cs: f5f3e25e9690be1c73bbc0525b4d0b70 -> 
+  custom:scripting/monoscript/fileName/RuleOverrideTile.cs: 27a3183bf22a5a9447c8b9239d8f3655 -> 

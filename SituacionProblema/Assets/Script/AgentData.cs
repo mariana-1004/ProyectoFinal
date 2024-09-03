@@ -7,5 +7,6 @@ using Newtonsoft.Json;
 public class AgentData
 {
     //public Dictionary<string, int> Agent_ID = new Dictionary<string, int>();
+    public Dictionary<string, List<int>> Position = new Dictionary<string, List<int>>();
     public Dictionary<string, List<string>> Action_History = new Dictionary<string, List<string>>();
 }
