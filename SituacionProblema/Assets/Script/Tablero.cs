@@ -12,10 +12,19 @@ public class Tablero : MonoBehaviour
 
     void Start()
     {
+        string turno = "0"; // Por ejemplo, "0" es el turno que quieres usar. Cambia esto según sea necesario.
+
         if (gridData != null && celdasExistentes != null && celdasExistentes.Count > 0)
         {
-            // Asumiendo que quieres interpretar la primera matriz (turno 0)
-            ActualizarCeldas(gridData.Grid[0]);
+            if (int.TryParse(turno, out int turnoInt) && gridData.Grid.ContainsKey(turnoInt))
+            {
+                // Interpretar la matriz correspondiente al turno actual
+                ActualizarCeldas(gridData.Grid[turnoInt]);
+            }
+            else
+            {
+                Debug.LogError("El turno especificado no existe en GridData o no es un número válido.");
+            }
         }
         else
         {
@@ -64,6 +73,7 @@ public class Tablero : MonoBehaviour
         // Si valor es 3 o 4, no hacer nada (celda vacía)
     }
 }
+
 
 
 
