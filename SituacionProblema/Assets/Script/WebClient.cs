@@ -12,7 +12,7 @@ using Newtonsoft.Json;
 
 public class WebClient : MonoBehaviour
 {
-    public AgentData agents;
+    public AgentData agentData;
     public GridData Grid;
     // IEnumerator - yield return
     IEnumerator SendData(string data)
@@ -58,12 +58,12 @@ public class WebClient : MonoBehaviour
                 */
 
                 // Deserializar los datos recibidos y almacenarlos en variables
-                // agents = JsonConvert.DeserializeObject<AgentData>(jsonParts[0]);
-                agents = JsonConvert.DeserializeObject<AgentData>(jsonParts[0]);
+                // agentData = JsonConvert.DeserializeObject<AgentData>(jsonParts[0]);
+                agentData = JsonConvert.DeserializeObject<AgentData>(jsonParts[0]);
 
                 // Imprimir los datos deserializados
                 Debug.Log("Grid Data: " + JsonConvert.SerializeObject(Grid, Formatting.Indented));
-                Debug.Log("Agent Data: " + JsonConvert.SerializeObject(agents, Formatting.Indented));
+                Debug.Log("Agent Data: " + JsonConvert.SerializeObject(agentData, Formatting.Indented));
 
             }
 
